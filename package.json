@@ -1,0 +1,25 @@
+{
+  "name": "@zerobias-org/evidencedefinition",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Zerobias evidence definition artifacts",
+  "main": "main.js",
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerobias-org/evidencedefinition.git"
+  },
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerobias-org/evidencedefinition/issues"
+  },
+  "homepage": "https://github.com/zerobias-org/evidencedefinition#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^20.3.1",
+    "@commitlint/config-conventional": "^20.3.1"
+  }
+}

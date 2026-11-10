@@ -1,0 +1,16 @@
+{
+  "name": "@zerobias-org/evidencedefinition-bundle",
+  "version": "1.0.0",
+  "description": "All installable evidence definitions",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "bundle/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "dependencies": {}
+}

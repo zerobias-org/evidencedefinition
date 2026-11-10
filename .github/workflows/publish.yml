@@ -1,0 +1,27 @@
+name: Publish Evidence Definition
+
+on:
+  push:
+    branches: [main, qa, dev, uat]
+    paths:
+      - 'package/**'
+      - '.github/workflows/publish.yml'
+  workflow_dispatch:
+    inputs:
+      evidencedefinition:
+        description: 'Evidence definition to publish (e.g. zerobias/ast-policy). Leave blank for all changed.'
+        required: false
+
+permissions:
+  contents: write
+  packages: write
+  id-token: write
+
+jobs:
+  publish:
+    uses: zerobias-org/devops/.github/workflows/zbb-publish-reusable.yml@main
+    with:
+      ghcr-namespace: zerobias-org
+      dispatch-input-name: evidencedefinition
+      dispatch-input-value: ${{ inputs.evidencedefinition }}
+    secrets: inherit

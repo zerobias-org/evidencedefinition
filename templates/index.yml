@@ -1,0 +1,7 @@
+id: {id}
+code: {code}
+name: {name}
+description: {description}
+category: {category}
+status: published
+tags: []

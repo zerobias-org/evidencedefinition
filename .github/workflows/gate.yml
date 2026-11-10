@@ -1,0 +1,22 @@
+name: Gate
+
+# Runs zbb gate in CI (zerobias-org/devops zbb-gate-reusable.yml): lands and publishes platform-events'
+# publish/<target>/<name> staging branches, and refreshes stale stamps on pull requests.
+on:
+  push:
+    branches: ['publish/**']
+  pull_request:
+    paths: ['package/**', '.github/workflows/gate.yml']
+
+permissions:
+  contents: write
+  actions: write
+  id-token: write
+  pull-requests: read
+
+jobs:
+  gate:
+    uses: zerobias-org/devops/.github/workflows/zbb-gate-reusable.yml@main
+    with:
+      publish-input: evidencedefinition
+    secrets: inherit
