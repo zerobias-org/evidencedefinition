@@ -1,0 +1,9 @@
+id: f1519be6-7446-50b1-9766-e20041ea26cb
+code: "E-IAC-10"
+name: "Active Accounts"
+description: "Documented evidence of active system accounts and the name of the individual associated with each account."
+category: confirmation
+format: file
+domain: "iac"
+status: published
+tags: []

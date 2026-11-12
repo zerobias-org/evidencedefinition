@@ -1,0 +1,9 @@
+id: ebd4a86c-071f-501a-a269-fb2f0a3c56a1
+code: "E-THR-09"
+name: "Insider Threat Program"
+description: "Documented evidence of an insider threat program, including the cross-discipline incident handling team and insider threat monitoring."
+category: confirmation
+format: file
+domain: "thr"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: ab9be43c-d3ab-5eb4-b159-27e28d1a4fda
+code: "E-VPM-13"
+name: "Deferred Patching Decisions"
+description: "Documented evidence of risk-based decisions to defer patches, including approvals and compensating measures."
+category: confirmation
+format: file
+domain: "vpm"
+status: published
+tags: []

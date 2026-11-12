@@ -1,0 +1,9 @@
+id: a3567b15-3b6c-517b-8b64-2182256fd636
+code: "E-WEB-01"
+name: "Web Security Standard & Application Framework"
+description: "Documented evidence of the organization's web security standard and approved web application framework(s)."
+category: confirmation
+format: file
+domain: "web"
+status: published
+tags: []

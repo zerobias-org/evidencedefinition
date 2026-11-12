@@ -1,0 +1,9 @@
+id: d9ccfbca-0dfc-527d-ad69-55d507670500
+code: "E-SAT-04"
+name: "Recurring User Training"
+description: "Documented evidence of recurring (e.g., annual) user training for security, compliance and/or resilience topics."
+category: confirmation
+format: file
+domain: "sat"
+status: published
+tags: []

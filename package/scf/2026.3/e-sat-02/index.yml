@@ -1,0 +1,9 @@
+id: bd313b38-dae1-5e0a-8b75-acfd9152d8eb
+code: "E-SAT-02"
+name: "Initial User Training"
+description: "Documented evidence of initial user training for security, compliance and/or resilience topics."
+category: confirmation
+format: file
+domain: "sat"
+status: published
+tags: []

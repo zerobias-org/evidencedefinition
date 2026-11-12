@@ -1,0 +1,9 @@
+id: 53cc4f89-bc39-5f21-87ad-ac128fbdad97
+code: "E-PES-04"
+name: "Physical Security Plan"
+description: "Documented evidence of a physical security plan."
+category: confirmation
+format: file
+domain: "pes"
+status: published
+tags: []

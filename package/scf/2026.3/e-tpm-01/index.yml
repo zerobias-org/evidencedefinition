@@ -1,0 +1,9 @@
+id: 3c8976d4-1e22-5aee-ba28-6d0312f387bc
+code: "E-TPM-01"
+name: "Third-Party Contracts"
+description: "Documented evidence of third-party contractual obligations for cybersecurity & data privacy protections."
+category: confirmation
+format: file
+domain: "tpm"
+status: published
+tags: []

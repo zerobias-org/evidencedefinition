@@ -1,0 +1,9 @@
+id: 6cb8bbe7-c9d5-5cb2-b5f4-36bad4726d8f
+code: "E-QTS-03"
+name: "Long-Lived Data Identification"
+description: "Documented evidence of a data classifications by the usable lifespan of the data that can be used to prioritize Post-Quantum Cryptography (PQC) remediation efforts."
+category: confirmation
+format: file
+domain: "qts"
+status: published
+tags: []

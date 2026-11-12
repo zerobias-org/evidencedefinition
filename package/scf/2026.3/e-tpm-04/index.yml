@@ -1,0 +1,9 @@
+id: 7c58b815-0329-55a4-9bf5-a492ac43d56d
+code: "E-TPM-04"
+name: "Service Level Agreements (SLAs)"
+description: "Documented evidence of third-party Service Level Agreements (SLAs) to support business operations."
+category: confirmation
+format: file
+domain: "tpm"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 37f37c5e-b9f0-58c4-a1f6-c6753b6449b5
+code: "E-PES-02"
+name: "Visitor Logbook"
+description: "Documented evidence of a visitor management and logging visitor activities."
+category: confirmation
+format: file
+domain: "pes"
+status: published
+tags: []

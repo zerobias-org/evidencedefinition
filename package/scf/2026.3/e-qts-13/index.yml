@@ -1,0 +1,9 @@
+id: ab19729a-0a88-54e6-bedb-9d6621e6f5ee
+code: "E-QTS-13"
+name: "Post-Quantum Cryptography (PQC)-Specific Vendor Roadmaps"
+description: "Documented evidence of a vendor-related Post-Quantum Cryptography (PQC) roadmaps, contract clauses, and attestations."
+category: confirmation
+format: file
+domain: "qts"
+status: published
+tags: []

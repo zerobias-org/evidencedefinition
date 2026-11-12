@@ -1,0 +1,9 @@
+id: 75d021e6-b6a9-52d9-8510-e08845b1c08a
+code: "E-TPM-09"
+name: "Third-Party Access Revocation Records"
+description: "Documented evidence that third-party physical and logical access was revoked upon cessation of services."
+category: confirmation
+format: file
+domain: "tpm"
+status: published
+tags: []

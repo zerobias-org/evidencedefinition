@@ -1,0 +1,9 @@
+id: 7f00d542-acb3-55ae-95c7-004711f23b3a
+code: "E-IRO-09"
+name: "Formally Assigned Incident Response Roles & Responsibilities"
+description: "Documented evidence of the establishment of a formally-assigned, integrated team of cybersecurity, IT and business function representatives that are capable of addressing cybersecurity & data privacy incident response operations."
+category: confirmation
+format: file
+domain: "iro"
+status: published
+tags: []

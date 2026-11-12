@@ -1,0 +1,9 @@
+id: 8e09ce7c-861f-5fa2-8e3a-33fe78170137
+code: "E-RSK-04"
+name: "Cybersecurity Risk Assessment (RA)"
+description: "Documented evidence of a cybersecurity-specific risk assessment."
+category: confirmation
+format: file
+domain: "rsk"
+status: published
+tags: []

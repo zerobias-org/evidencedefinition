@@ -1,0 +1,9 @@
+id: 4ae8c432-fb2b-51f3-97e6-9824c2e2d1fd
+code: "E-RSK-05"
+name: "Supply Chain Risk Assessment (SCRA)"
+description: "Documented evidence of supply chain-specific risk assessment that evaluates risks that are specific to its supply chain."
+category: confirmation
+format: file
+domain: "rsk"
+status: published
+tags: []

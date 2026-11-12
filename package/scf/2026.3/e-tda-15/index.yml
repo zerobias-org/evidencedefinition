@@ -1,0 +1,9 @@
+id: ed4ee957-ca28-5649-9850-e19891cde491
+code: "E-TDA-15"
+name: "Updateability / Patchability View"
+description: "Documented evidence of a description of the end-to-end process permitting software updates and patches to be deployed to the device/service."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

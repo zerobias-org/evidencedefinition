@@ -1,0 +1,9 @@
+id: 91a00440-a6c9-5857-8da4-4b216175502b
+code: "E-TDA-18"
+name: "System Security Plan (SSP) Reviews"
+description: "Documented evidence of reviews and/or updates to System Security Plan (SSP) documentation."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

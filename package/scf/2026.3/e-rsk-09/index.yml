@@ -1,0 +1,9 @@
+id: f7034a21-7191-5c71-9a3d-db7a821e49e9
+code: "E-RSK-09"
+name: "Risk Catalog"
+description: "Documented evidence of a risk catalog."
+category: confirmation
+format: file
+domain: "rsk"
+status: published
+tags: []

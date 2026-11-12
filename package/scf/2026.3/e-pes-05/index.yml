@@ -1,0 +1,9 @@
+id: 1250d358-9010-58bd-b6fa-272ee47175d4
+code: "E-PES-05"
+name: "Physical Security Operations"
+description: "Documented evidence of the organization's physical security capabilities as it pertains to operating and monitoring Physical Access Control (PAC) mechanisms."
+category: confirmation
+format: file
+domain: "pes"
+status: published
+tags: []

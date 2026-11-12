@@ -1,0 +1,9 @@
+id: c7c0557a-07c8-517d-80d2-541ce4436d35
+code: "E-IRO-12"
+name: "Sensitive / Regulated Data Spills"
+description: "Documented evidence of records of response to sensitive / regulated data spills."
+category: confirmation
+format: file
+domain: "iro"
+status: published
+tags: []
