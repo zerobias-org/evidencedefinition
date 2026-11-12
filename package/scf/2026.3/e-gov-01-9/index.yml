@@ -1,0 +1,9 @@
+id: 1d66c0ec-4ad7-57e5-8f36-15d0a980021c
+code: "E-GOV-01.9"
+name: "Configuration Management Policy"
+description: "Documented evidence of a configuration management policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

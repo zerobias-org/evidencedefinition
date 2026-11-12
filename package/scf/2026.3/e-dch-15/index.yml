@@ -1,0 +1,9 @@
+id: 2a0bbcef-bc3f-5022-8fca-e3f028bdd06a
+code: "E-DCH-15"
+name: "Geolocation Restrictions"
+description: "Documented evidence of geolocation restrictions placed on specific types of sensitive and/or regulated data for where that data can be stored and/or processed."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []

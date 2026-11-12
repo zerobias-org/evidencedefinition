@@ -1,0 +1,9 @@
+id: a7f4a2b2-b2fb-55bf-b27b-28b76cc87f88
+code: "E-GOV-21"
+name: "High Value Asset (HVA) List"
+description: "Documented evidence of the organization's designated High Value Assets (HVAs)."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

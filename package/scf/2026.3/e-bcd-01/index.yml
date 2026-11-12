@@ -1,0 +1,9 @@
+id: 542c54ff-4036-54c2-8a49-c3d681668541
+code: "E-BCD-01"
+name: "Continuity of Operations Plan (COOP)"
+description: "Documented evidence of a Continuity of Operations Plan (COOP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards. This involves internal and external stakeholders for incident response, disaster recovery and business continuity support requirements."
+category: confirmation
+format: file
+domain: "bcd"
+status: published
+tags: []

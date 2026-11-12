@@ -1,0 +1,9 @@
+id: fbadf91a-69cf-563f-a707-d48a9d5e0856
+code: "E-GOV-01.32"
+name: "Threat Management Policy"
+description: "Documented evidence of a threat management policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

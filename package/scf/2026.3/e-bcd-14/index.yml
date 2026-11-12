@@ -1,0 +1,9 @@
+id: 21071298-c492-5a5d-949b-9d2ff6208af8
+code: "E-BCD-14"
+name: "Recovery Operations Criteria"
+description: "Documented evidence of specific criteria to activate Business Continuity / Disaster Recovery (BC/DR) plans."
+category: confirmation
+format: file
+domain: "bcd"
+status: published
+tags: []

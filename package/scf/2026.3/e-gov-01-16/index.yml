@@ -1,0 +1,9 @@
+id: dba56937-4796-59c6-91e8-ca4e618cc575
+code: "E-GOV-01.16"
+name: "Identification & Authentication Policy"
+description: "Documented evidence of a identification and authentication policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

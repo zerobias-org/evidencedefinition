@@ -1,0 +1,9 @@
+id: 39ec954e-8c4b-5cd0-b53b-4d9aa7fafca6
+code: "E-AST-08"
+name: "Asset Inventories - Sensitive / Regulated Data"
+description: "Documented evidence of an inventory of the organization's sensitive/regulated data (including systems where sensitive/regulated data is stored, processed and/or transmitted) that contains sufficient information to determine the potential impact in the event of a data loss incident."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

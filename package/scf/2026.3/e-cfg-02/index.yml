@@ -1,0 +1,9 @@
+id: 59b4cf4f-9185-554e-be17-4770469e2df8
+code: "E-CFG-02"
+name: "Control Assurance Automation (CAA) Change Control Records"
+description: "Documented evidence that Control Assurance Automation (CAA) collection code, queries and scoring logic are under version control, peer review and change management, with separation of duties and unauthorized change detection."
+category: confirmation
+format: file
+domain: "cfg"
+status: published
+tags: []

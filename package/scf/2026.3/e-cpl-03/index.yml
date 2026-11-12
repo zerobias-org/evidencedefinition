@@ -1,0 +1,9 @@
+id: 7b5326cc-b4fb-561b-856f-0ef5ff95b5d2
+code: "E-CPL-03"
+name: "Shared Responsibility Matrix (SRM) / Controls Responsibility Matrix (CRM)"
+description: "Documented evidence of a Controls Responsibility Matrix (CRM), or similar documentation, that identifies the stakeholder involved in executing assigned controls (e.g., Responsible, Accountable, Supportive, Consulted & Informed (RASCI) matrix)."
+category: confirmation
+format: file
+domain: "cpl"
+status: published
+tags: []

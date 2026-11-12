@@ -1,0 +1,9 @@
+id: 2916c4f0-5383-5efa-9dee-48d44c113eff
+code: "E-END-03"
+name: "Antimalware Scanning Results"
+description: "Documented evidence of scan results from malicious code protection mechanisms."
+category: confirmation
+format: file
+domain: "end"
+status: published
+tags: []

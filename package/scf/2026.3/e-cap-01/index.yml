@@ -1,0 +1,9 @@
+id: 4d977b98-5c20-59a1-9365-b16e3f6c698e
+code: "E-CAP-01"
+name: "Capacity Planning"
+description: "Documented evidence of proactive capacity planning to meet expected and anticipated future technology-related capacity and/or performance requirements."
+category: confirmation
+format: file
+domain: "cap"
+status: published
+tags: []

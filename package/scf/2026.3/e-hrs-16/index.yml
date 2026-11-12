@@ -1,0 +1,9 @@
+id: 859373cb-367d-537f-9543-c6d4071ec24b
+code: "E-HRS-16"
+name: "Access Agreements"
+description: "Documented evidence of personnel management practices protecting sensitive/regulated data through formal access agreements."
+category: confirmation
+format: file
+domain: "hrs"
+status: published
+tags: []

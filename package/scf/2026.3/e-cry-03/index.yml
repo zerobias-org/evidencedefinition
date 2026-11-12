@@ -1,0 +1,9 @@
+id: bb34e59d-e500-58e5-93c4-e3fe6929b456
+code: "E-CRY-03"
+name: "Certificate Monitoring"
+description: "Documented evidence of certificate monitoring activities."
+category: confirmation
+format: file
+domain: "cry"
+status: published
+tags: []
