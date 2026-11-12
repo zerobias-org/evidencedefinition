@@ -18,16 +18,18 @@ group = "com.zerobias.content"
 // evidencedefinition/.
 //
 // Package shape:
-//   package/<vendor>/<code>/
+//   package/<vendor>/<code>/             — unversioned (e.g. zerobias/ast-policy)
+//   package/<vendor>/<version>/<code>/   — per source version (e.g. scf/2026.3/e-gov-01),
+//                                          for sources like SCF that reuse codes across versions
 //     index.yml      — the evidence definition (id, code, name, status, category, ...)
 //
 // This validator only enforces things the dataloader CANNOT or DOES NOT
 // check:
 //
 //   1. Filesystem ↔ npm ↔ zerobias-block triangulation:
-//        dir              = package/<vendor>/<code>/
-//        npm name         = @zerobias-org/evidencedefinition-<vendor>-<code>
-//        zerobias.package = <vendor>.<code>.evidencedefinition
+//        dir              = package/<vendor>[/<version>]/<code>/
+//        npm name         = @zerobias-org/evidencedefinition-<vendor>[-<version>]-<code>
+//        zerobias.package = <vendor>[.<version with . → _>].<code>.evidencedefinition
 //
 //   2. Required files exist (index.yml, package.json, .npmrc).
 //
@@ -47,20 +49,25 @@ extra["contentValidator"] = { proj: org.gradle.api.Project ->
     require(projectDir.resolve(".npmrc").isFile)       { "$tag .npmrc missing in ${projectDir.path}" }
 
     // ── Filesystem ↔ npm ↔ zerobias-block triangulation ──
-    val code = projectDir.name
-    val vendor = projectDir.parentFile.name
+    // package/<vendor>/<code>/ or package/<vendor>/<version>/<code>/
+    val segments = projectDir.relativeTo(proj.rootDir.resolve("package")).invariantSeparatorsPath.split("/")
+    require(segments.size in 2..3) { "$tag expected package/<vendor>[/<version>]/<code>, got ${segments.joinToString("/")}" }
+    val vendor = segments.first()
+    val code = segments.last()
+    val version = if (segments.size == 3) segments[1] else null
     val pkgDoc = SchemaPrimitives.parseJson(projectDir.resolve("package.json"))
     SchemaPrimitives.requirePackageIdentity(
         pkgDoc,
-        expectedNpmName = "@zerobias-org/evidencedefinition-$vendor-$code",
-        expectedZerobiasPackage = "$vendor.$code.evidencedefinition",
+        expectedNpmName = "@zerobias-org/evidencedefinition-" + listOfNotNull(vendor, version, code).joinToString("-"),
+        // zerobias.package segments are dot-separated, so dots inside the version become underscores
+        expectedZerobiasPackage = listOfNotNull(vendor, version?.replace('.', '_'), code, "evidencedefinition").joinToString("."),
         field = "$tag package.json",
     )
     require(SchemaPrimitives.getPath(pkgDoc, "zerobias.import-artifact") == "evidencedefinition") {
         "$tag zerobias.import-artifact must be 'evidencedefinition'"
     }
 
-    proj.logger.lifecycle("$tag: vendor=$vendor code=$code")
+    proj.logger.lifecycle("$tag: vendor=$vendor version=${version ?: "-"} code=$code")
 }
 
 // ════════════════════════════════════════════════════════════
