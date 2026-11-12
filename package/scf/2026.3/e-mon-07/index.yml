@@ -1,0 +1,9 @@
+id: 562907a7-99c5-5481-90c7-59c2dede675c
+code: "E-MON-07"
+name: "Situational Awareness"
+description: "Documented evidence of the organization leveraging knowledge of event log generation to gain situational awareness of cross-domain activities (e.g., technology issues, security events, policy violations, service provider activities, remote workforce activities, physical security events, etc.)."
+category: confirmation
+format: file
+domain: "mon"
+status: published
+tags: []

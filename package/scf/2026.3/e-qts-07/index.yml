@@ -1,0 +1,9 @@
+id: c76f1f64-7de2-5665-8045-91c41c11c4ea
+code: "E-QTS-07"
+name: "Cryptographic Exception Register"
+description: "Documented evidence of a formal cryptographic exception register."
+category: confirmation
+format: file
+domain: "qts"
+status: published
+tags: []

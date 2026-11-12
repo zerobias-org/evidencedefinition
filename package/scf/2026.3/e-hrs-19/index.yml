@@ -1,0 +1,9 @@
+id: 6d34605a-9a42-5575-b668-596654270981
+code: "E-HRS-19"
+name: "Deprovisioning Checklist (Offboarding)"
+description: "Documented evidence of personnel management practices to formally offboard personnel from their assigned roles due to employment termination or role change."
+category: confirmation
+format: file
+domain: "hrs"
+status: published
+tags: []

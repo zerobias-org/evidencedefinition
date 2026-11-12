@@ -1,0 +1,9 @@
+id: 9465d341-4994-5985-8192-ecf6f56910ca
+code: "E-IAC-06"
+name: "Authenticate, Authorize and Audit (AAA) Solution"
+description: "Documented evidence of an Authenticate, Authorize and Audit (AAA) solution (on-premises and hosted by External Service Providers (ESP))."
+category: confirmation
+format: file
+domain: "iac"
+status: published
+tags: []

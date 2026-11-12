@@ -1,0 +1,9 @@
+id: 5487c735-1add-50e0-be5a-879281d82633
+code: "E-TPM-06"
+name: "Third-Party Terms & Conditions"
+description: "Documented evidence of terms and conditions for external systems."
+category: confirmation
+format: file
+domain: "tpm"
+status: published
+tags: []

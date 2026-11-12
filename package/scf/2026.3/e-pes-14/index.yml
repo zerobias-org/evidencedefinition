@@ -1,0 +1,9 @@
+id: 981a8318-4fc2-5374-acf3-27c34cd49840
+code: "E-PES-14"
+name: "Delivery & Removal Records"
+description: "Documented evidence of controls over the delivery and removal of technology assets and media to / from facilities."
+category: confirmation
+format: file
+domain: "pes"
+status: published
+tags: []

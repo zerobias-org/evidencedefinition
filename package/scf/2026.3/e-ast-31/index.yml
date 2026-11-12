@@ -1,0 +1,9 @@
+id: 04ce4e34-81a8-5881-8f7b-fbddcf5844ea
+code: "E-AST-31"
+name: "Allowlist / Denylist"
+description: "Documented evidence of software applications that are explicitly allowed (allowlist / whitelist) and/or blocked (denylist / blacklist)."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 12a986fe-0c92-57cd-9b88-a3c722c09cde
+code: "E-HRS-17"
+name: "Background Checks"
+description: "Documented evidence of personnel screening practices, which centers around some form of formalized background check process."
+category: confirmation
+format: file
+domain: "hrs"
+status: published
+tags: []

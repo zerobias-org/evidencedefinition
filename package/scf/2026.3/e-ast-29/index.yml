@@ -1,0 +1,9 @@
+id: e1fee458-aa70-5d7a-9929-ade1f4ac7ec1
+code: "E-AST-29"
+name: "Authorized To Connect"
+description: "Documented evidence of a list of devices and systems authorized to connect to organizational Technology Asset, Application and/or Service (TAAS)."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: c53e648f-6b61-5181-9eba-4bd5085b6040
+code: "E-GOV-01.7"
+name: "Cloud Security Policy"
+description: "Documented evidence of a cloud security policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

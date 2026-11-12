@@ -1,0 +1,9 @@
+id: bf5c19c7-d025-53f2-941b-484d435c8741
+code: "E-HRS-03"
+name: "Assigned Roles - Cybersecurity Staff"
+description: "List of employed or contract personnel assigned to cybersecurity roles."
+category: confirmation
+format: file
+domain: "hrs"
+status: published
+tags: []
