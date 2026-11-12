@@ -1,0 +1,9 @@
+id: cfd74683-5e21-510a-9f11-31ea7657fade
+code: "E-GOV-01"
+name: "Security, Compliance & Resilience Policies"
+description: "Documented evidence of an appropriately-scoped security, compliance and resilience-focused policies. Policies are high-level statements of management intent from an organization's executive leadership that are designed to influence decisions and guide the organization to achieve the desired outcomes. Policies are enforced by standards and further implemented by procedures to establish actionable and accountable requirements."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

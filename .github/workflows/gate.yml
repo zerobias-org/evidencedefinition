@@ -19,4 +19,6 @@ jobs:
     uses: zerobias-org/devops/.github/workflows/zbb-gate-reusable.yml@main
     with:
       publish-input: evidencedefinition
+      # generators such as package/scf/update/ belong to no package
+      non-package-paths: '^package/.+/update/'
     secrets: inherit
