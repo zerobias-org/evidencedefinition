@@ -1,0 +1,9 @@
+id: 29de3376-91f0-5574-93d5-09c716a281e6
+code: "E-AST-34"
+name: "Asset Discovery Results"
+description: "Documented evidence of automated asset discovery results reconciled against the asset inventory (e.g., unknown / unauthorized assets identified)."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

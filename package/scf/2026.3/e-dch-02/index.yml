@@ -1,0 +1,9 @@
+id: a00b1591-ad08-5eb0-b085-694355e891a0
+code: "E-DCH-02"
+name: "Data Handling Practices"
+description: "Documented evidence of an organization-specific data handling practices (e.g., guidance specific the data classification scheme)."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 75acaf75-a28e-5076-8de2-f9ae9a2c98a3
+code: "E-MON-12"
+name: "Event Log Protection & Time Synchronization"
+description: "Documented evidence of event log protection (access restriction, cryptographic protection, separate backup) and synchronization with an authoritative time source."
+category: confirmation
+format: file
+domain: "mon"
+status: published
+tags: []

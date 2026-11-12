@@ -1,0 +1,9 @@
+id: f4d2194d-c518-58fa-8370-d5b466bb0898
+code: "E-AAT-11"
+name: "AI Model & Agent Inventory"
+description: "Documented evidence of an inventory of Artificial Intelligence (AI) models and AI agents in use, including lifecycle status and categorization."
+category: confirmation
+format: file
+domain: "aat"
+status: published
+tags: []

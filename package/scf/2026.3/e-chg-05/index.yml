@@ -1,0 +1,9 @@
+id: 4bbcc811-e298-5b29-8568-6d373e0d9ce2
+code: "E-CHG-05"
+name: "Change Control Records"
+description: "Documented evidence of change control records (including test results, when applicable)."
+category: confirmation
+format: file
+domain: "chg"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 4fc0eedd-68e0-5cd6-be88-c105c6e237ac
+code: "E-QTS-14"
+name: "Post-Quantum Cryptography Agility Plan (PQCAP)"
+description: "Documented evidence of a Post-Quantum Cryptography Agility Plan (PQCAP), including data shelf-life classification and crypto-agility architecture."
+category: confirmation
+format: file
+domain: "qts"
+status: published
+tags: []

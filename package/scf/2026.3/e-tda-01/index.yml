@@ -1,0 +1,9 @@
+id: c20fd7f5-caad-5d4a-a61e-9500acb6eb09
+code: "E-TDA-01"
+name: "Secure Software Development Principles (SSDP)"
+description: "Documented evidence of a Secure Software Development Principles (SSDP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

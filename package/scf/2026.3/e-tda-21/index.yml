@@ -1,0 +1,9 @@
+id: fe8cc500-7cf7-5433-8541-608de33dfc74
+code: "E-TDA-21"
+name: "Test Data Management"
+description: "Documented evidence of restrictions on the use of live / sensitive data in testing and test data integrity controls."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

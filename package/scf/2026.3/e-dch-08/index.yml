@@ -1,0 +1,9 @@
+id: 27f28a2f-4312-51ce-a1db-47e61a502976
+code: "E-DCH-08"
+name: "Authorization Documentation"
+description: "Documented evidence of that identifies authorized users and processes acting on behalf of authorized users."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []

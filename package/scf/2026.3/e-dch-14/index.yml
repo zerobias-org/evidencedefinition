@@ -1,0 +1,9 @@
+id: 4c29083c-ec40-59af-935f-8bcc88571057
+code: "E-DCH-14"
+name: "Media Transportation Records"
+description: "Documented evidence of media transportation records."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []

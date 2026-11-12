@@ -1,0 +1,9 @@
+id: 49f68a12-79c7-5985-b224-24b711df7f5d
+code: "E-AAT-12"
+name: "AI Agent Governance & Logging"
+description: "Documented evidence of AI agent governance controls (e.g., permitted actions, tool / API invocation restrictions, kill switch) and AI agent activity logs."
+category: confirmation
+format: file
+domain: "aat"
+status: published
+tags: []

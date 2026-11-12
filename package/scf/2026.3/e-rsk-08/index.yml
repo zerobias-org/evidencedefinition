@@ -1,0 +1,9 @@
+id: 7379e6cf-78f0-5d66-bdcf-af1b51b46769
+code: "E-RSK-08"
+name: "Risk Appetite"
+description: "Documented evidence the organization has a defined risk appetite."
+category: confirmation
+format: file
+domain: "rsk"
+status: published
+tags: []

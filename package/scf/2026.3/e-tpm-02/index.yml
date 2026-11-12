@@ -1,0 +1,9 @@
+id: bd40ac28-ff79-5e0b-84df-1192c1699084
+code: "E-TPM-02"
+name: "Third-Party Criticality Assessment"
+description: "Documented evidence of third-party criticality assessment that evaluates the critical nature of each third-party the organization works with."
+category: confirmation
+format: file
+domain: "tpm"
+status: published
+tags: []

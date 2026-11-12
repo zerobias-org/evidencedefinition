@@ -1,0 +1,9 @@
+id: 850f6e3c-3970-549d-8200-7f995638d3b7
+code: "E-AST-03"
+name: "Asset Disposal Evidence"
+description: "Documented evidence of asset disposal/destruction (e.g., asset tracking by serial # for shredding, degaussing, etc.)."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

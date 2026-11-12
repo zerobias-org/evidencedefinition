@@ -1,0 +1,9 @@
+id: 61c7f8ff-e9da-52ad-9892-a09afe64e57c
+code: "E-TDA-13"
+name: "Software Escrow"
+description: "Documented evidence of a software escrow solution."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

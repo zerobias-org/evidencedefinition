@@ -1,0 +1,9 @@
+id: 97a4b62b-09dc-595e-8a7b-12033ff7d6cf
+code: "E-IAC-01"
+name: "Access Permission Review"
+description: "Documented evidence of periodic access permission reviews."
+category: confirmation
+format: file
+domain: "iac"
+status: published
+tags: []

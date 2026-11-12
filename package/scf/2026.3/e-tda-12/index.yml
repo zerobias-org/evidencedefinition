@@ -1,0 +1,9 @@
+id: 7fcad6ff-a625-59ec-ba57-54766129d148
+code: "E-TDA-12"
+name: "Software Bill of Materials (SBOM)"
+description: "Documented evidence of a Software Bill of Materials (SBOM)."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

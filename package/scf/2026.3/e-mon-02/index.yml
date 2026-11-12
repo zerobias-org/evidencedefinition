@@ -1,0 +1,9 @@
+id: 2907c33d-8780-57e8-93d8-57c70891ba94
+code: "E-MON-02"
+name: "Malware Activity"
+description: "Documented evidence of malware activity being logged and included as part of the centralized event log collection and review/analysis process."
+category: confirmation
+format: file
+domain: "mon"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 4076f051-aa57-57d6-9de9-835c43578562
+code: "E-AST-04"
+name: "Asset Inventories - Hardware"
+description: "Documented evidence of an inventory of the organization's technology hardware assets."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

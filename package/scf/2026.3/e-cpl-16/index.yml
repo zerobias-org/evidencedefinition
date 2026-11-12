@@ -1,0 +1,9 @@
+id: 52928f1d-1837-5f5e-9de1-68c373b7be80
+code: "E-CPL-16"
+name: "Export Control (Dual-Use Technology) Documentation"
+description: "Documented evidence of export control determinations (e.g., USML / CCL identification), export-controlled access restrictions and export activity records."
+category: confirmation
+format: file
+domain: "cpl"
+status: published
+tags: []

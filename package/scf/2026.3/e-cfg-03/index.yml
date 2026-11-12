@@ -1,0 +1,9 @@
+id: 0ee52e63-b3b9-5336-b443-d1435c124ac5
+code: "E-CFG-03"
+name: "Production Software Repository Protections"
+description: "Documented evidence of production software repository protections, including approved third-party libraries and repository access controls."
+category: confirmation
+format: file
+domain: "cfg"
+status: published
+tags: []

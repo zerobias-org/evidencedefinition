@@ -1,0 +1,9 @@
+id: 59b96988-6fb0-51d4-a4f1-94f48f77bd1c
+code: "E-IAC-03"
+name: "Privileged User Inventory"
+description: "Documented evidence of an inventory of privileged users across Technology Assets, Applications and/or Services (TAAS) (internal and external)."
+category: confirmation
+format: file
+domain: "iac"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 11a302fb-abb3-5a46-82e5-d3ecaee0493c
+code: "E-AST-21"
+name: "Secure Baseline Configurations - Workstation Class Systems"
+description: "Documented evidence of secure baseline configurations for all deployed types of workstation-class operating systems."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

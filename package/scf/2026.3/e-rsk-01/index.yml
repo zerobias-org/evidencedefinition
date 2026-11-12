@@ -1,0 +1,9 @@
+id: 743176f5-05c5-547a-90d5-a94dc399df27
+code: "E-RSK-01"
+name: "Risk Management Program (RMP)"
+description: "Documented evidence of a Risk Management Program (RMP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+category: confirmation
+format: file
+domain: "rsk"
+status: published
+tags: []

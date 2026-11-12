@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-scf-2026.3-e-net-07",
+  "version": "1.0.0",
+  "description": "SCF 2026.3 E-NET-07: External System Accessibility",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/scf/2026.3/e-net-07/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "scf.2026_3.e-net-07.evidencedefinition"
+  }
+}

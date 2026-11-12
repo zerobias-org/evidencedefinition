@@ -1,0 +1,9 @@
+id: 2a4f2b8e-7096-58f6-95f7-fbfe6b6e3f5e
+code: "E-AST-30"
+name: "System Events To Be Logged"
+description: "Documented evidence of the justification for certain system events to be logged."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []
