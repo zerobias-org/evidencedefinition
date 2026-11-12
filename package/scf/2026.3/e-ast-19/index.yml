@@ -1,9 +1,0 @@
-id: 3c2390b7-1116-598c-977b-3a5384dca50c
-code: "E-AST-19"
-name: "Secure Baseline Configurations - Network Devices"
-description: "Documented evidence of secure baseline configurations for all deployed types of network devices."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

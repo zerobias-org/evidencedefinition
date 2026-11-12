@@ -1,9 +1,0 @@
-id: 36657157-ad1f-5074-a949-a7893a65a768
-code: "E-PES-06"
-name: "Physical Access Control Logs"
-description: "Documented evidence of physical access control logs or records."
-category: confirmation
-format: file
-domain: "pes"
-status: published
-tags: []

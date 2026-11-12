@@ -1,9 +1,0 @@
-id: 2d6aa0b2-56c4-5f3f-910d-97beb380cae5
-code: "E-TPM-03"
-name: "Third-Party Service Reviews"
-description: "Documented evidence of a formal, annual stakeholder review of third-party services for each External Service Provider (ESP)."
-category: confirmation
-format: file
-domain: "tpm"
-status: published
-tags: []

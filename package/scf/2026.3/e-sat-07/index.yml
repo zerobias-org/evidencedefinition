@@ -1,9 +1,0 @@
-id: 12de36f9-5c64-55c5-a89e-09a528f1267a
-code: "E-SAT-07"
-name: "Training Records"
-description: "Documented evidence of security awareness training records"
-category: confirmation
-format: file
-domain: "sat"
-status: published
-tags: []

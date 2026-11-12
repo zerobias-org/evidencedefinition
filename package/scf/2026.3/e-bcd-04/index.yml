@@ -1,9 +1,0 @@
-id: 6c9cc157-8dea-5787-8d11-8a3105102aeb
-code: "E-BCD-04"
-name: "COOP Root Cause Analysis (RCA)"
-description: "Documented evidence of a Root Cause Analysis (RCA) from any Continuity of Operations Plan (COOP)-related training, testing or incident."
-category: confirmation
-format: file
-domain: "bcd"
-status: published
-tags: []

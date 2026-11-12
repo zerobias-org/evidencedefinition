@@ -1,9 +1,0 @@
-id: 61f2daf6-7923-5615-873c-b89743ab1531
-code: "E-NET-02"
-name: "Wireless Rogue Detection"
-description: "Documented evidence of automated or manual means to detect rogue wireless devices."
-category: confirmation
-format: file
-domain: "net"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 066df3d1-c36f-5659-8ea7-e810ae62d8c6
-code: "E-IAC-11"
-name: "Recently Disabled Accounts"
-description: "Documented evidence of list of recently disabled system accounts along with the name of the individual associated with each account."
-category: confirmation
-format: file
-domain: "iac"
-status: published
-tags: []

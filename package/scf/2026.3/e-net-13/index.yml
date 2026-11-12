@@ -1,9 +1,0 @@
-id: 74ee16c6-d401-5efc-91ff-5845193d1375
-code: "E-NET-13"
-name: "Demilitarized Zone (DMZ) & Web Application Firewall (WAF) Configuration"
-description: "Documented evidence of DMZ architecture and Web Application Firewall (WAF) configuration for externally facing services."
-category: confirmation
-format: file
-domain: "net"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: d288f2c1-2611-569b-a5fb-f39c211a79df
-code: "E-MNT-01"
-name: "Maintenance - Authorized Maintenance Personnel"
-description: "Documented evidence of personnel who have designated maintenance roles."
-category: confirmation
-format: file
-domain: "mnt"
-status: published
-tags: []

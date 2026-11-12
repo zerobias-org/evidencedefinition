@@ -1,9 +1,0 @@
-id: b8f33323-107d-50b4-8a8d-4becfb15003e
-code: "E-VPM-04"
-name: "Red Team Testing"
-description: "Documented evidence of \"red team\" testing."
-category: confirmation
-format: file
-domain: "vpm"
-status: published
-tags: []

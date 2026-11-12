@@ -1,9 +1,0 @@
-id: 2535ee04-32fb-55f3-905b-3b38740414b4
-code: "E-MNT-03"
-name: "Patch Management"
-description: "Documented evidence of maintenance activities for Technology Assets, Applications and/or Services (TAAS) (e.g., patch management)."
-category: confirmation
-format: file
-domain: "mnt"
-status: published
-tags: []

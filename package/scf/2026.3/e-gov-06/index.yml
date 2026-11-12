@@ -1,9 +1,0 @@
-id: 09e573a2-2516-5d09-b1cb-2d372dfc4713
-code: "E-GOV-06"
-name: "Exception Management"
-description: "Documented evidence of authorized exceptions to standards (e.g., configurations, practices, etc.)"
-category: confirmation
-format: file
-domain: "gov"
-status: published
-tags: []

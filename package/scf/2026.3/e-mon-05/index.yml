@@ -1,9 +1,0 @@
-id: 32798b8c-6ab3-531c-91e6-aac14a9f10da
-code: "E-MON-05"
-name: "Centralized Event Log Collection"
-description: "Documented evidence of security-relevant activities being logged and included as part of the centralized event log collection and review/analysis process."
-category: confirmation
-format: file
-domain: "mon"
-status: published
-tags: []

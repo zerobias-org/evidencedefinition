@@ -1,9 +1,0 @@
-id: 729b40ef-4bd4-563e-8ed9-54431a57d2c6
-code: "E-BCD-09"
-name: "COOP Dependency Analysis"
-description: "Documented evidence of a Continuity of Operations Plan (COOP)-related dependency analysis for Technology Assets, Applications, Services and/or Data (TAASD) (including facilities and third-parties)."
-category: confirmation
-format: file
-domain: "bcd"
-status: published
-tags: []

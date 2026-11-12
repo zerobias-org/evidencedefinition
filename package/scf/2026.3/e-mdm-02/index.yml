@@ -1,9 +1,0 @@
-id: 009d75b0-e990-5129-b89b-e8eaa2acc888
-code: "E-MDM-02"
-name: "Mobile Device Ownership & Enrollment Inventory"
-description: "Documented evidence of enrolled mobile devices by ownership model (organization-owned, personally-owned / BYOD, third-party devices)."
-category: confirmation
-format: file
-domain: "mdm"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 7496ea0c-aed6-5974-8e97-ab567e4b46d3
-code: "E-CPL-11"
-name: "Control Assurance Automation (CAA) Governance"
-description: "Documented evidence that Control Assurance Automation (CAA) pipelines, tooling and automated evidence collection are governed under the organization's technology governance and risk oversight."
-category: confirmation
-format: file
-domain: "cpl"
-status: published
-tags: []

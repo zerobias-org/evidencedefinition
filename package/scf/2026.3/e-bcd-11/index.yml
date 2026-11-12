@@ -1,9 +1,0 @@
-id: ba6aab82-5200-5d4b-97db-fe05ffaa31d7
-code: "E-BCD-11"
-name: "Data Backups - Local"
-description: "Documented evidence of event logs for the on-site / local data backup solution."
-category: confirmation
-format: file
-domain: "bcd"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 2b2e1e52-f365-5e2a-bcee-ceb72353eb8d
-code: "E-AST-32"
-name: "Mobile Code"
-description: "Documented evidence of mobile code that is explicitly allowed (allowlist / whitelist) and/or blocked (denylist / blacklist)."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

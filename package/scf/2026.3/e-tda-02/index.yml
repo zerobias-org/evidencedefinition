@@ -1,9 +1,0 @@
-id: 64edbcb3-becf-51e2-8898-f8048de24ada
-code: "E-TDA-02"
-name: "Secure Engineering & Data Privacy (SEDP)"
-description: "Documented evidence of a Secure Engineering & Data Privacy (SEDP) program. This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
-category: confirmation
-format: file
-domain: "tda"
-status: published
-tags: []

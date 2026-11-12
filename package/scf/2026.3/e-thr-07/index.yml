@@ -1,9 +1,0 @@
-id: 6e7a549f-403e-5ca2-b636-b40316159474
-code: "E-THR-07"
-name: "Threat Analysis"
-description: "Documented evidence of a completed threat analysis."
-category: confirmation
-format: file
-domain: "thr"
-status: published
-tags: []

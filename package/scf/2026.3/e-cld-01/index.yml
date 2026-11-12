@@ -1,9 +1,0 @@
-id: 230f3b48-6f7e-5d71-9823-6797b186658a
-code: "E-CLD-01"
-name: "Cloud Security Architecture"
-description: "Documented evidence of cloud security architecture, including security management subnets and infrastructure security zones."
-category: confirmation
-format: file
-domain: "cld"
-status: published
-tags: []

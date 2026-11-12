@@ -1,9 +1,0 @@
-id: d48ffc37-457b-55a2-8536-cf5df61a65d0
-code: "E-THR-01"
-name: "Indicators of Exposure (IOE)"
-description: "Documented evidence of defined Indicators of Exposure (IOE)."
-category: confirmation
-format: file
-domain: "thr"
-status: published
-tags: []

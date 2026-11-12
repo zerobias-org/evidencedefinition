@@ -1,9 +1,0 @@
-id: 2d8e5c1f-ac13-55a3-8ca4-78c2ffef64ea
-code: "E-BCD-10"
-name: "Data Backups"
-description: "Documented evidence of a Continuity of Operations Plan (COOP)-related data backup scheme that demonstrates the methods of data backup (including protection measures) for all data types to ensure business continuity requirements."
-category: confirmation
-format: file
-domain: "bcd"
-status: published
-tags: []

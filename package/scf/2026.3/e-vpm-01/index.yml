@@ -1,9 +1,0 @@
-id: 31ea1ff5-3e1b-5c87-8a7a-2903e3eb3428
-code: "E-VPM-01"
-name: "Vulnerability & Patch Management Program (VPMP)"
-description: "Documented evidence of a Vulnerability & Patch Management Program (VPMP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
-category: confirmation
-format: file
-domain: "vpm"
-status: published
-tags: []

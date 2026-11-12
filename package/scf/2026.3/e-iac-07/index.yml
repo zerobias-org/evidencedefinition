@@ -1,9 +1,0 @@
-id: dd79b78d-e8da-5df8-a677-acc2f6d28594
-code: "E-IAC-07"
-name: "Account Management Compliance Reviews"
-description: "Documented evidence of account management compliance reviews."
-category: confirmation
-format: file
-domain: "iac"
-status: published
-tags: []

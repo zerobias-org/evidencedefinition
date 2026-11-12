@@ -1,9 +1,0 @@
-id: c1249b5c-1c0f-50d8-8f9f-329192e505ea
-code: "E-HRS-29"
-name: "Personnel Actions Documentation"
-description: "Documented evidence of notifications or records of recently transferred, separated, or terminated employees."
-category: confirmation
-format: file
-domain: "hrs"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 260aa385-94b9-59a3-87ae-5ed2fed82430
-code: "E-MON-10"
-name: "Event Logging Processing Failure Notifications"
-description: "Documented evidence of the list of personnel to be notified in the event of an event log processing failure."
-category: confirmation
-format: file
-domain: "mon"
-status: published
-tags: []

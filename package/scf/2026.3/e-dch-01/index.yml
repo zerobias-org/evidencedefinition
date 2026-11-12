@@ -1,9 +1,0 @@
-id: ddc5dfcc-3076-5287-bfdc-8c80b203bfd6
-code: "E-DCH-01"
-name: "Data Classification Scheme"
-description: "Documented evidence of an organization-specific data classification scheme."
-category: confirmation
-format: file
-domain: "dch"
-status: published
-tags: []

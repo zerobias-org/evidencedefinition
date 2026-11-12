@@ -1,9 +1,0 @@
-id: 05c35754-6296-51fd-a6bd-71058f828924
-code: "E-IRO-03"
-name: "Incident Tracking"
-description: "Documented evidence of a centralized repository to track cybersecurity & data privacy incidents."
-category: confirmation
-format: file
-domain: "iro"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 0c9e6336-5c4f-554a-91db-d67edecf85e1
-code: "E-IRO-07"
-name: "IRP Updates"
-description: "Documented evidence of a periodic review process for the organization's Incident Response Plan (IRP) to identify necessary updates."
-category: confirmation
-format: file
-domain: "iro"
-status: published
-tags: []

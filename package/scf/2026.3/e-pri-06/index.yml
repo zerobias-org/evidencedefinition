@@ -1,9 +1,0 @@
-id: b8853c53-e8ee-5742-b513-52846cf16ff4
-code: "E-PRI-06"
-name: "Data Subject Access"
-description: "Documented evidence of how data subject access requests are handled that includes intake through remediation."
-category: confirmation
-format: file
-domain: "pri"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: c616af1c-d63d-56f2-b064-199c3ffd3791
-code: "E-MON-01"
-name: "Event Log Review & Analysis"
-description: "Documented evidence of a capability to perform security event log review and analysis (e.g., system monitoring records, continuous monitoring strategy, etc.)."
-category: confirmation
-format: file
-domain: "mon"
-status: published
-tags: []

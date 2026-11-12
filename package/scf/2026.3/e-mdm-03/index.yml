@@ -1,9 +1,0 @@
-id: cbd498f8-7026-52a1-b651-25856e6e89e6
-code: "E-MDM-03"
-name: "Mobile Device Remote Purge & Tamper Response Records"
-description: "Documented evidence of remote purge capability and actions taken for lost, stolen or tampered mobile devices."
-category: confirmation
-format: file
-domain: "mdm"
-status: published
-tags: []

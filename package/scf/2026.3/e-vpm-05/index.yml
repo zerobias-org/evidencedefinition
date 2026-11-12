@@ -1,9 +1,0 @@
-id: e09d9ffe-8b27-52f8-be5f-77cccb674e65
-code: "E-VPM-05"
-name: "Vulnerability Assessments"
-description: "Documented evidence of internal and external vulnerability assessment activities."
-category: confirmation
-format: file
-domain: "vpm"
-status: published
-tags: []

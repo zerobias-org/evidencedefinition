@@ -1,9 +1,0 @@
-id: 0916d15d-d7bb-5329-9a70-75119044f06d
-code: "E-PES-11"
-name: "Physical Security Zones"
-description: "Documented evidence of security safeguards controlling access to designated physical security zones within facilities."
-category: confirmation
-format: file
-domain: "pes"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 3d1e6c02-a7bf-5d5f-9138-4ffbe39bca7f
-code: "E-IAC-04"
-name: "User & Service Inventory"
-description: "Documented evidence of an inventory of authorized users and services."
-category: confirmation
-format: file
-domain: "iac"
-status: published
-tags: []

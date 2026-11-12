@@ -1,9 +1,0 @@
-id: cfd6b07e-b1c1-5d25-b3d7-374fc691c973
-code: "E-CLD-03"
-name: "Multi-Tenant Environment Controls"
-description: "Documented evidence of controls for multi-tenant cloud environments, including tenant-specific event logging, forensics and incident response capabilities."
-category: confirmation
-format: file
-domain: "cld"
-status: published
-tags: []

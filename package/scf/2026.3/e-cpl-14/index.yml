@@ -1,9 +1,0 @@
-id: 28b0cac3-912a-5b6e-9547-5b67ddc7a213
-code: "E-CPL-14"
-name: "Conformity Attestations & Declarations"
-description: "Documented evidence of conformity assessment results, attestations and/or declarations of conformity, including the designated certifying official."
-category: confirmation
-format: file
-domain: "cpl"
-status: published
-tags: []

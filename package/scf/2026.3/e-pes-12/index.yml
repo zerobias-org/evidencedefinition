@@ -1,9 +1,0 @@
-id: 2f077d6d-d0e0-52fb-a8f6-d06261cd9937
-code: "E-PES-12"
-name: "Entry and Exist Points"
-description: "Documented evidence of physical entry and exit points."
-category: confirmation
-format: file
-domain: "pes"
-status: published
-tags: []

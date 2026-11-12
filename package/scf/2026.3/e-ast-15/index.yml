@@ -1,9 +1,0 @@
-id: 431f7184-8a09-5ba4-a619-e4ee989a9e6c
-code: "E-AST-15"
-name: "Secure Baseline Configurations - Embedded Technologies"
-description: "Documented evidence of secure baseline configurations for all deployed types of embedded technologies."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

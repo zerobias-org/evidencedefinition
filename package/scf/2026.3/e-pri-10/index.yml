@@ -1,9 +1,0 @@
-id: 200b248e-7468-585d-ab5f-222631075063
-code: "E-PRI-10"
-name: "Data Subject Consent Records"
-description: "Documented evidence of data subject consent management, including opt-in / opt-out records and parent or guardian consent for minors."
-category: confirmation
-format: file
-domain: "pri"
-status: published
-tags: []

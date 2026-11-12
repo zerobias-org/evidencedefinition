@@ -1,9 +1,0 @@
-id: 58081b65-5d42-5b93-a8cf-b859827e7de2
-code: "E-HRS-15"
-name: "Organization Chart"
-description: "Current and accurate organization chart that depicts logical staff hierarchies."
-category: confirmation
-format: file
-domain: "hrs"
-status: published
-tags: []

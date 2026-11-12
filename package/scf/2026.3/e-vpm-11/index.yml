@@ -1,9 +1,0 @@
-id: 37c3ee19-81b8-5fa4-8c84-d43355526494
-code: "E-VPM-11"
-name: "Vulnerability Scanning"
-description: "Documented evidence of internal and external vulnerability scans being performed."
-category: confirmation
-format: file
-domain: "vpm"
-status: published
-tags: []

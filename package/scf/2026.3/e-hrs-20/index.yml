@@ -1,9 +1,0 @@
-id: ffdaf0c1-973c-578c-8027-a13083080198
-code: "E-HRS-20"
-name: "Non-Disclosure Agreements (NDAs)"
-description: "Documented evidence of the use of Non-Disclosure Agreements (NDAs) that restricts unauthorized sharing of sensitive/regulated data."
-category: confirmation
-format: file
-domain: "hrs"
-status: published
-tags: []

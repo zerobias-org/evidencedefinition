@@ -1,9 +1,0 @@
-id: f4a09865-e8b7-5902-a16c-91a4d1951dea
-code: "E-CRY-02"
-name: "Cryptographic Key Management"
-description: "Documented evidence of cryptographic key management practices."
-category: confirmation
-format: file
-domain: "cry"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 403e5475-7c74-5c2d-b098-aafe8feb34cb
-code: "E-OPS-02"
-name: "Security Concept of Operations (CONOPS)"
-description: "Documented evidence of a Security Concept of Operations (CONOPS) describing how security operations are performed."
-category: confirmation
-format: file
-domain: "ops"
-status: published
-tags: []

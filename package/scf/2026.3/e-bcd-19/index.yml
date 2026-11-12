@@ -1,9 +1,0 @@
-id: fe9fa544-6594-5528-800a-6dccaa985437
-code: "E-BCD-19"
-name: "Isolated Recovery Environment & Reserve Hardware"
-description: "Documented evidence of an isolated recovery environment, reserve hardware, redundant secondary systems and/or failover capability."
-category: confirmation
-format: file
-domain: "bcd"
-status: published
-tags: []

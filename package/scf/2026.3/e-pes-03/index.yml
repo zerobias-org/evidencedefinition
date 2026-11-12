@@ -1,9 +1,0 @@
-id: 416b3553-2c86-55a6-9c1e-60a63610bc99
-code: "E-PES-03"
-name: "Defined Physical Security Roles"
-description: "Documented evidence of defined physical access control-specific roles that limit physical access to rooms and/or facilities."
-category: confirmation
-format: file
-domain: "pes"
-status: published
-tags: []

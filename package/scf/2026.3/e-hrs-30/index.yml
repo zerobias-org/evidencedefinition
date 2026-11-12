@@ -1,9 +1,0 @@
-id: a31e6a9a-b57f-5b31-8f5c-f9a0dfbf536d
-code: "E-HRS-30"
-name: "Suspicious Activity Reporting"
-description: "Documented evidence of the process and channel for personnel to report suspicious activities, including user threat reporting from messaging technologies."
-category: confirmation
-format: file
-domain: "hrs"
-status: published
-tags: []

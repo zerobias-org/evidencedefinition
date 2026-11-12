@@ -1,9 +1,0 @@
-id: 88b8c50a-14b9-59af-83a7-a3956d9968bb
-code: "E-CLD-02"
-name: "Cloud Infrastructure Onboarding / Offboarding Records"
-description: "Documented evidence of cloud infrastructure onboarding and offboarding activities (e.g., account provisioning, configuration baselining, decommissioning and data disposition)."
-category: confirmation
-format: file
-domain: "cld"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 67556fe5-0a89-5911-8253-43f7553ddf32
-code: "E-PRM-03"
-name: "Secure Development Lifecycle (SDLC)"
-description: "Documented evidence of a secure development lifecycle that the organization utilizes for new initiatives or significant changes to existing initiatives to ensure cybersecurity & data privacy principles are identified and implemented by default."
-category: confirmation
-format: file
-domain: "prm"
-status: published
-tags: []

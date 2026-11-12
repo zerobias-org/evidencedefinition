@@ -1,9 +1,0 @@
-id: f94e80db-d3ff-5832-a443-722b08632be1
-code: "E-AST-10"
-name: "Prohibited Equipment List (PEM)"
-description: "Documented evidence of equipment identified by Federal Acquisition Regulation (FAR) section 889 prohibitions for certain telecommunications equipment."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

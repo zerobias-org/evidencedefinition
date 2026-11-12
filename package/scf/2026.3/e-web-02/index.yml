@@ -1,9 +1,0 @@
-id: 036e5f12-dc89-5d45-b41e-d80f30c06eb0
-code: "E-WEB-02"
-name: "Client-Facing Web Services Protections"
-description: "Documented evidence of protections for client-facing web services, including Strong Customer Authentication (SCA) and secure web traffic."
-category: confirmation
-format: file
-domain: "web"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: e8090da4-576e-560a-bd53-fe0550b04c18
-code: "E-AST-25"
-name: "Logical Tamper Detection Tool"
-description: "Documented evidence of software that is implemented and configured to detect logical tampering (e.g., configurations)."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

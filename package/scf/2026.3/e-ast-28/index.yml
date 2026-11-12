@@ -1,9 +1,0 @@
-id: 11229d67-77b8-5c44-b129-d64769b3e69d
-code: "E-AST-28"
-name: "Software Licenses"
-description: "Documented evidence of software license inventories."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

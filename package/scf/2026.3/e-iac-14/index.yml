@@ -1,9 +1,0 @@
-id: e94454be-2d74-548d-b564-3ab230eef524
-code: "E-IAC-14"
-name: "Remote Access Authorizations"
-description: "Documented evidence of authorization for users to connect via remote access methods."
-category: confirmation
-format: file
-domain: "iac"
-status: published
-tags: []

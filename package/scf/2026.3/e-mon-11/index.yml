@@ -1,9 +1,0 @@
-id: 3340fcd0-2f48-527b-82fe-b959b183a406
-code: "E-MON-11"
-name: "System Authenticator Types"
-description: "Documented evidence of the list of authorized system authenticator types."
-category: confirmation
-format: file
-domain: "mon"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: dabbbad5-4161-58c0-8c69-b4bfa552dfc6
-code: "E-EMB-01"
-name: "Embedded Technology Network Separation"
-description: "Documented evidence that embedded technologies (OT / IoT) are logically or physically separated from IT networks, with restricted and authorized communications."
-category: confirmation
-format: file
-domain: "emb"
-status: published
-tags: []

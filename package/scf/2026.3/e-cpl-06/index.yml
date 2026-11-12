@@ -1,9 +1,0 @@
-id: 7780c208-9b55-587d-a46b-f768b101253e
-code: "E-CPL-06"
-name: "Manufacturer Disclosure Statement for Medical Device Security (MDS2)"
-description: "Documented Manufacturer Disclosure Statement for Medical Device Security (MDS2) that communicates information about medical device cybersecurity & data privacy characteristics to current device owners and potential buyers. [note MDS2 is specific to medical device manufacturers]"
-category: confirmation
-format: file
-domain: "cpl"
-status: published
-tags: []

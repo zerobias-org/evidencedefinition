@@ -1,9 +1,0 @@
-id: e6135e36-acc4-5578-bee7-463d39befe5c
-code: "E-IAC-17"
-name: "Authenticator Configuration Settings"
-description: "Documented evidence of authenticator management settings (e.g., password complexity, default authenticator changes, account lockout, protection of authenticators)."
-category: confirmation
-format: file
-domain: "iac"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 60f81ecd-96d6-5672-8d0a-57bf071ac0de
-code: "E-MDM-01"
-name: "Mobile Device Management (MDM) Configuration"
-description: "Documented evidence of Mobile Device Management (MDM) configuration, including centralized management, access restrictions for unauthorized devices, device / container encryption, separate profiles and geofencing."
-category: confirmation
-format: file
-domain: "mdm"
-status: published
-tags: []

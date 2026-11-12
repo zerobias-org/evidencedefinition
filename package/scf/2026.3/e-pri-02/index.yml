@@ -1,9 +1,0 @@
-id: 29f2f009-45c1-5f4f-9b36-5f7bae7c4923
-code: "E-PRI-02"
-name: "Authorized Use"
-description: "Documented evidence of authorized use definitions for privacy-related data operations."
-category: confirmation
-format: file
-domain: "pri"
-status: published
-tags: []

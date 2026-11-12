@@ -1,9 +1,0 @@
-id: e273bf97-9d74-5737-a183-d0835b99df8f
-code: "E-IAC-15"
-name: "Control Assurance Automation (CAA) Identity & Credential Management"
-description: "Documented evidence of the inventory, ownership, least-privilege (read-only) scope and credential lifecycle management for Control Assurance Automation (CAA) automated identities (service accounts, API keys, OAuth grants)."
-category: confirmation
-format: file
-domain: "iac"
-status: published
-tags: []

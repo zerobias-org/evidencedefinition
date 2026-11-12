@@ -1,9 +1,0 @@
-id: e6fc1fd2-d88d-5562-b578-c8ed86d62637
-code: "E-DCH-05"
-name: "Data Flow Diagram (DFD)"
-description: "Documented evidence of a Data Flow Diagram (DFD) that accurately identifies where sensitive/regulated data is stored, transmitted and/or processed."
-category: confirmation
-format: file
-domain: "dch"
-status: published
-tags: []

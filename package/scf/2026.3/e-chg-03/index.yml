@@ -1,9 +1,0 @@
-id: 82ae286c-0b25-576f-8cf3-1c56fd4f1943
-code: "E-CHG-03"
-name: "Change Control Board (CCB) Minutes"
-description: "Documented evidence of Change Control Board (CCB) meeting minutes"
-category: confirmation
-format: file
-domain: "chg"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: f8f2e0b0-f9a7-5583-8e25-cccc5a00689a
-code: "E-EMB-02"
-name: "Embedded Technology Security Program"
-description: "Documented evidence of an embedded technology security program covering Internet of Things (IoT) and Operational Technology (OT)."
-category: confirmation
-format: file
-domain: "emb"
-status: published
-tags: []

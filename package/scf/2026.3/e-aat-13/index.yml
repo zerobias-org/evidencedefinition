@@ -1,9 +1,0 @@
-id: fda0b9aa-e9c8-5d0c-aa9e-00ea69b188fa
-code: "E-AAT-13"
-name: "AI Human Oversight Records"
-description: "Documented evidence of human oversight measures for deployed Artificial Intelligence and Autonomous Technologies (AAT), including oversight roles and escalation."
-category: confirmation
-format: file
-domain: "aat"
-status: published
-tags: []

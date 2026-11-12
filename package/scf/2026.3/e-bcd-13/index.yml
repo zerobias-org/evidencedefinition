@@ -1,9 +1,0 @@
-id: 674424a0-44bc-55af-9423-71201cfe6c21
-code: "E-BCD-13"
-name: "Data Backups - Recovery Activities"
-description: "Documented evidence of recovery activities (successful and failed)."
-category: confirmation
-format: file
-domain: "bcd"
-status: published
-tags: []

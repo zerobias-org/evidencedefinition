@@ -1,9 +1,0 @@
-id: d95f462e-fb5e-5059-a207-76ff611214c8
-code: "E-IAC-02"
-name: "Defined Roles & Authorizations (RBAC)"
-description: "Documented evidence of defined access control-specific roles (e.g., Role Based Access Control (RBAC)) that affect both logical and physical access authorizations."
-category: confirmation
-format: file
-domain: "iac"
-status: published
-tags: []

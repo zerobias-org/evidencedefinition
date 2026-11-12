@@ -1,9 +1,0 @@
-id: 941bd01d-d4f6-5a39-af4e-38b64b3f36a0
-code: "E-TDA-19"
-name: "Hardware / Indentured Bill of Materials (HBOM / IBOM)"
-description: "Documented evidence of Hardware Bills of Materials (HBOM) and/or Indentured Bills of Materials (IBOM)."
-category: confirmation
-format: file
-domain: "tda"
-status: published
-tags: []

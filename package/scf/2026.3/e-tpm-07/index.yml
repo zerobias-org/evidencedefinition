@@ -1,9 +1,0 @@
-id: 48a95d3d-eaf3-5477-88bb-c8d457f7aeab
-code: "E-TPM-07"
-name: "System Connection or Processing Agreements"
-description: "Documented evidence of system connection or processing agreements."
-category: confirmation
-format: file
-domain: "tpm"
-status: published
-tags: []

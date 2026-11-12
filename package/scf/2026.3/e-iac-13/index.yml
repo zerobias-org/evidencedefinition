@@ -1,9 +1,0 @@
-id: dd713e6b-4152-55a8-ba4a-fbe30f049c06
-code: "E-IAC-13"
-name: "Authenticator Types"
-description: "Documented evidence of system authenticator types."
-category: confirmation
-format: file
-domain: "iac"
-status: published
-tags: []

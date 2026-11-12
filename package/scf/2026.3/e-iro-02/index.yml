@@ -1,9 +1,0 @@
-id: 56ba202a-1424-5c32-8b08-753bb5c8c38e
-code: "E-IRO-02"
-name: "Indicators of Compromise (IOC)"
-description: "Documented evidence of defined Indicators of Compromise (IOC)."
-category: confirmation
-format: file
-domain: "iro"
-status: published
-tags: []

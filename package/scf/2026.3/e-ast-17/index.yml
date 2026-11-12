@@ -1,9 +1,0 @@
-id: 9dc4e40f-e967-5d24-ac46-175f3623f1b6
-code: "E-AST-17"
-name: "Secure Baseline Configurations - Minor Applications"
-description: "Documented evidence of secure baseline configurations for all deployed types of minor applications."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

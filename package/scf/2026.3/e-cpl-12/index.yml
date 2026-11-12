@@ -1,9 +1,0 @@
-id: 37703d31-2b38-5a86-a9cf-9609127edfc8
-code: "E-CPL-12"
-name: "Control Assurance Automation (CAA) Evidence Integrity Records"
-description: "Documented evidence of integrity and chain-of-custody protections for automatically collected evidence, including tamper-evident storage, authorized data feed reconciliation and protection of aggregated telemetry."
-category: confirmation
-format: file
-domain: "cpl"
-status: published
-tags: []

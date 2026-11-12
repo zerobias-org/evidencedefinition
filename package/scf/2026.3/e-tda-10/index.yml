@@ -1,9 +1,0 @@
-id: 178f3090-6503-5808-9389-f11472106677
-code: "E-TDA-10"
-name: "Security Use Case View (SUCV)"
-description: "Documented evidence of diagrams, with explanatory text, describing various security scenarios in each of the operational and clinical functionality states of the system and how the system addresses each scenario architecturally. [note SUCV is specific to medical device manufacturers]"
-category: confirmation
-format: file
-domain: "tda"
-status: published
-tags: []

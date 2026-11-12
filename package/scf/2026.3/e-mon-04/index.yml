@@ -1,9 +1,0 @@
-id: 9fbce819-03f3-516b-9d50-8c6c54b77ecd
-code: "E-MON-04"
-name: "Rogue Devices"
-description: "Documented evidence of rogue device identification is included as part of the centralized event log collection and review/analysis process."
-category: confirmation
-format: file
-domain: "mon"
-status: published
-tags: []

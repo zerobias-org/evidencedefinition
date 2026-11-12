@@ -1,9 +1,0 @@
-id: d8828dc9-9691-5fde-8ec0-d015adfb62e6
-code: "E-IRO-11"
-name: "Incident Reporting Capability"
-description: "Documented evidence of a capability to provide situational awareness of incidents to internal stakeholders and generated necessary reporting to affected clients, applicable third-parties and regulatory authorities."
-category: confirmation
-format: file
-domain: "iro"
-status: published
-tags: []

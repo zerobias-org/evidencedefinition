@@ -1,9 +1,0 @@
-id: 3cb794ce-16b7-52ab-8b35-1294ffa5ff77
-code: "E-QTS-10"
-name: "Cryptographic Telemetry"
-description: "Documented evidence of situational awareness dashboards for cryptographic telemetry (e.g., SIEM/XDR dashboards)."
-category: confirmation
-format: file
-domain: "qts"
-status: published
-tags: []

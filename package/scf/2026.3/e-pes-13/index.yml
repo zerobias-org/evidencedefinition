@@ -1,9 +1,0 @@
-id: afb89145-7875-5d40-ac03-8ee4fc7c791d
-code: "E-PES-13"
-name: "Emergency Power & Utility Protections"
-description: "Documented evidence of emergency power, emergency shutoff, emergency lighting, voltage controls and redundant cabling."
-category: confirmation
-format: file
-domain: "pes"
-status: published
-tags: []
