@@ -1,0 +1,9 @@
+id: f5f3ffa5-dbb2-5ecc-b826-8f81f2e2f81f
+code: "E-HRS-28"
+name: "Authorized Personnel Access List"
+description: "Documented evidence of an authorized personnel access list."
+category: confirmation
+format: file
+domain: "hrs"
+status: published
+tags: []

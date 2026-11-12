@@ -1,0 +1,9 @@
+id: 30ce6fc9-f1a4-5d5d-addf-12ebbd08ca6a
+code: "E-HRS-11"
+name: "Role Assignment - Sensitive / Regulated Data"
+description: "Documented evidence of a formal role assignment to personnel who are cleared to handle sensitive/regulated data."
+category: confirmation
+format: file
+domain: "hrs"
+status: published
+tags: []

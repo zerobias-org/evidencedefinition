@@ -1,0 +1,9 @@
+id: eee78127-64da-584f-bdf4-27e1ad23c483
+code: "E-AST-01"
+name: "IT Asset Management (ITAM)"
+description: "Documented evidence of an IT Asset Management (ITAM) program that addresses the due diligence and due care activities associated with maintaining both secure, compliance and resilient Technology Assets, Applications and/or Services (TAAS)."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

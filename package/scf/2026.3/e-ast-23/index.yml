@@ -1,0 +1,9 @@
+id: c61ada72-bdda-58bb-a8f3-775c8daa1e2a
+code: "E-AST-23"
+name: "Geolocation Inventory"
+description: "Documented evidence of designated internal and third-party facilities where organizational data is stored, transmitted and/or processed."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: dcab9159-4fe6-5921-b512-b7fdaeb51462
+code: "E-DCH-19"
+name: "Sensitive / Regulated Data Transfer Authorizations"
+description: "Documented evidence of authorizations and records for ad-hoc and external transfers of sensitive / regulated data."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 00d07607-c72c-5e8a-ae61-1766809dcc5e
+code: "E-GOV-01.27"
+name: "Secure Engineering & Architecture Policy"
+description: "Documented evidence of a secure engineering and architecture policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

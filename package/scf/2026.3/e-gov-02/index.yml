@@ -1,0 +1,9 @@
+id: d9e65781-c3be-5f29-a798-e955bcfb2d84
+code: "E-GOV-02"
+name: "Cybersecurity & Data Protection Standards"
+description: "Documented evidence of an appropriately-scoped cybersecurity & data protection standards. Standards are mandatory requirements regarding processes, actions and configurations. Standards are intended to be granular and prescriptive to ensure Technology Assets, Applications and/or Services (TAAS) are designed and operated to include appropriate cybersecurity & data protection protections"
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

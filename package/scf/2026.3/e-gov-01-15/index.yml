@@ -1,0 +1,9 @@
+id: e99cb067-ab13-594e-aca9-fef68125f967
+code: "E-GOV-01.15"
+name: "Human Resources Security Policy"
+description: "Documented evidence of a human resources security policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

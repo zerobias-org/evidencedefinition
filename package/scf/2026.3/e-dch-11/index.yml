@@ -1,0 +1,9 @@
+id: fb1e2ab3-6d29-5c9f-ac53-baecf1b8f0e9
+code: "E-DCH-11"
+name: "Authorized Users To Post Publicly Accessible Content"
+description: "Documented evidence of list of users authorized to post publicly accessible content on organizational systems."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []

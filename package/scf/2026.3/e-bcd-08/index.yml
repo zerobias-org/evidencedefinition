@@ -1,0 +1,9 @@
+id: 99a18def-87bc-526a-8efa-7c6cdbeeda12
+code: "E-BCD-08"
+name: "COOP Criticality Analysis"
+description: "Documented evidence of a Continuity of Operations Plan (COOP)-related criticality analysis."
+category: confirmation
+format: file
+domain: "bcd"
+status: published
+tags: []

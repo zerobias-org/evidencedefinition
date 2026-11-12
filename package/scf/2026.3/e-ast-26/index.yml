@@ -1,0 +1,9 @@
+id: 6aa9bcb6-8073-59ce-a52b-c8e5ad133a95
+code: "E-AST-26"
+name: "Roots of Trust Evidence"
+description: "Documented evidence of product supplier data that can be used as a “roots of trust” basis for integrity verification."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

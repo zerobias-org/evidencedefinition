@@ -1,0 +1,9 @@
+id: 2a94f216-101b-5bde-aa4a-d9c0bc40fe26
+code: "E-CPL-07"
+name: "Control Assessments"
+description: "Documented evidence of internal or third-party control assessments to provide governance oversight of cybersecurity & data privacy controls."
+category: confirmation
+format: file
+domain: "cpl"
+status: published
+tags: []

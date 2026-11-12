@@ -1,0 +1,9 @@
+id: d13c1900-7903-5c2c-a519-037f0d908271
+code: "E-GOV-22"
+name: "Contacts With Authorities"
+description: "Documented evidence of established points of contact with regulatory authorities and law enforcement (e.g., contact roster, notification procedures)."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

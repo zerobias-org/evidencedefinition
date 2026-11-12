@@ -1,0 +1,9 @@
+id: 672dfa6e-d6b4-51d9-99a9-fc15d7005e12
+code: "E-DCH-09"
+name: "Assigned Responsibilities"
+description: "Documented evidence of data stewardship being assigned and communicated to individuals entrusted with sensitive and/or regulated data."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []

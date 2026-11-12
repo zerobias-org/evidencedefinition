@@ -1,0 +1,9 @@
+id: a00b0b29-be5f-5bcf-8e8c-fdcdbcd5d9c9
+code: "E-EMB-04"
+name: "Safety Instrumented System (SIS) Documentation"
+description: "Documented evidence of Safety Instrumented Systems (SIS), Safety Instrumented Functions (SIF), assigned Safety Integrity Levels (SIL) and safety assessments for embedded technologies."
+category: confirmation
+format: file
+domain: "emb"
+status: published
+tags: []

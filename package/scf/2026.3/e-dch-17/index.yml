@@ -1,0 +1,9 @@
+id: 863ecaec-d162-50a0-a2be-ae3f3d8d4c78
+code: "E-DCH-17"
+name: "Data Catalog & Data Quality Records"
+description: "Documented evidence of a data catalog and data quality management activities for sensitive / regulated data."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []

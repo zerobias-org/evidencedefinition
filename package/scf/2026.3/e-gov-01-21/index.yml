@@ -1,0 +1,9 @@
+id: 7b919d3f-31ff-5617-b881-6eceb4cba977
+code: "E-GOV-01.21"
+name: "Network Security Policy"
+description: "Documented evidence of a network security policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

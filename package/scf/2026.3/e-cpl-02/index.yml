@@ -1,0 +1,9 @@
+id: b8ccf769-1983-52e3-a2e8-89b9782860bb
+code: "E-CPL-02"
+name: "Defined Compliance Scope (DCS)"
+description: "Documented evidence of a formal scoping document that identifies applicable statutory, regulatory and/or contractual obligations for the organization. Defines the affected Lines of Business (LOB), internal / external stakeholders and facilities for the specific scope of compliance obligations."
+category: confirmation
+format: file
+domain: "cpl"
+status: published
+tags: []

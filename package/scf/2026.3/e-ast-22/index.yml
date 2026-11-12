@@ -1,0 +1,9 @@
+id: 2febd80c-4d0b-56a3-883e-c106ef013ce5
+code: "E-AST-22"
+name: "Provenance"
+description: "Documented evidence that tracks the origin, development, ownership, location and changes to Technology Assets, Applications, Services and/or Data (TAASD)."
+category: confirmation
+format: file
+domain: "ast"
+status: published
+tags: []

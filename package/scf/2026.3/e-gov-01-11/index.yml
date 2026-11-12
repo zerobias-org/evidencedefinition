@@ -1,0 +1,9 @@
+id: f6520d8c-8d4b-5ab9-a737-8a46ba8df96a
+code: "E-GOV-01.11"
+name: "Cryptographic Protections Policy"
+description: "Documented evidence of a cryptographic protections policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

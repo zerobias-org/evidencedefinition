@@ -1,0 +1,9 @@
+id: b8baa488-c361-5fea-ac8d-25f1a6f43b1a
+code: "E-GOV-01.8"
+name: "Compliance Policy"
+description: "Documented evidence of a compliance policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

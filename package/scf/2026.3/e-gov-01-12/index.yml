@@ -1,0 +1,9 @@
+id: 76c4e345-7d7d-53d8-b4fe-7e7ca2c26de2
+code: "E-GOV-01.12"
+name: "Data Classification & Handling Policy"
+description: "Documented evidence of a data classification and handling policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []
