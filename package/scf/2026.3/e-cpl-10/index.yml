@@ -1,9 +1,0 @@
-id: 1faf7c0a-9454-5890-8a43-8cfb24132168
-code: "E-CPL-10"
-name: "Statement of Applicability (SOA)"
-description: "Documented Statement of Applicability (SOA), or similar document, that scopes compliance-related activities."
-category: confirmation
-format: file
-domain: "cpl"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 457911af-32f2-5860-90a0-44c40378768d
-code: "E-GOV-01.34"
-name: "Web Security Policy"
-description: "Documented evidence of a web security policy."
-category: confirmation
-format: file
-domain: "gov"
-status: published
-tags: []

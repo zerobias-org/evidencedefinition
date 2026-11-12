@@ -1,9 +1,0 @@
-id: 611c51db-14c8-5efa-8a45-9f344de70a06
-code: "E-NET-01"
-name: "Content / DNS Filtering"
-description: "Documented evidence of the methods that content / DNS filtering is implemented to prevent Internet traffic from prohibited content and/or hostile web sites."
-category: confirmation
-format: file
-domain: "net"
-status: published
-tags: []

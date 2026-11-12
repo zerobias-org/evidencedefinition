@@ -1,9 +1,0 @@
-id: a2fe4215-95c7-52e9-9ff6-c4313baa2f50
-code: "E-TPM-10"
-name: "Foreign Ownership, Control or Influence (FOCI) Assessments"
-description: "Documented evidence of Foreign Ownership, Control or Influence (FOCI) assessments and ownership change monitoring for third-parties."
-category: confirmation
-format: file
-domain: "tpm"
-status: published
-tags: []

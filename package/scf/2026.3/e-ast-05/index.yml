@@ -1,9 +1,0 @@
-id: 764546e1-2d52-5ec7-bc91-0e8a198844e7
-code: "E-AST-05"
-name: "Asset Inventories - Software"
-description: "Documented evidence of an inventory of the organization's software assets."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

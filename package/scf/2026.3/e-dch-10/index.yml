@@ -1,9 +1,0 @@
-id: 07a47748-67e2-5e8c-a3a0-5911efea8044
-code: "E-DCH-10"
-name: "Structured & Unstructured Data Reviews"
-description: "Documented evidence of a capability to review and/or scan data repositories (structured or unstructured) for instances of sensitive and/or regulated data."
-category: confirmation
-format: file
-domain: "dch"
-status: published
-tags: []

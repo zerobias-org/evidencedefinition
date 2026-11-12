@@ -1,9 +1,0 @@
-id: 45c5d0bd-292c-5e8d-9669-f6a7f03abc74
-code: "E-IAO-01"
-name: "Information Assurance Program (IAP)"
-description: "Documented evidence of a Information Assurance Program (IAP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
-category: confirmation
-format: file
-domain: "iao"
-status: published
-tags: []

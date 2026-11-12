@@ -1,9 +1,0 @@
-id: cec0708d-9087-51c7-ac06-e7f82eb570dc
-code: "E-TPM-05"
-name: "Break Clauses"
-description: "Documented evidence of \"break clauses\" in third-party contracts."
-category: confirmation
-format: file
-domain: "tpm"
-status: published
-tags: []

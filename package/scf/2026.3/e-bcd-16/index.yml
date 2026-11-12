@@ -1,9 +1,0 @@
-id: dd6ee4a5-c0f7-5937-83d9-074fdf0e5be0
-code: "E-BCD-16"
-name: "Encrypted Backup Media"
-description: "Documented evidence of backup media being encrypted."
-category: confirmation
-format: file
-domain: "bcd"
-status: published
-tags: []

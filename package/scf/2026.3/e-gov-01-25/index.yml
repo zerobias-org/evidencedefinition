@@ -1,9 +1,0 @@
-id: dfb059ec-89c3-5db0-a3fd-6d6ac8097ba5
-code: "E-GOV-01.25"
-name: "Quantum Security Policy"
-description: "Documented evidence of a quantum security policy."
-category: confirmation
-format: file
-domain: "gov"
-status: published
-tags: []

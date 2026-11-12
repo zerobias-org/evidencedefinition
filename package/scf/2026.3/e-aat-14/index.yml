@@ -1,9 +1,0 @@
-id: 1fa8f8eb-896b-5a4a-afd2-711f17c5e027
-code: "E-AAT-14"
-name: "AI Production Monitoring & Serious Incident Reporting"
-description: "Documented evidence of production monitoring of Artificial Intelligence and Autonomous Technologies (AAT), including event logging and serious incident reporting / root cause analysis."
-category: confirmation
-format: file
-domain: "aat"
-status: published
-tags: []

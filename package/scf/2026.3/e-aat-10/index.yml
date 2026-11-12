@@ -1,9 +1,0 @@
-id: f40a072f-c158-5259-90bb-a0110fecdd45
-code: "E-AAT-10"
-name: "Source Data Identification for Artificial Intelligence and Autonomous Technologies (AAT)"
-description: "Documented evidence of data sources utilized in the training and/or operation of Artificial Intelligence and Autonomous Technologies (AAT)."
-category: confirmation
-format: file
-domain: "aat"
-status: published
-tags: []

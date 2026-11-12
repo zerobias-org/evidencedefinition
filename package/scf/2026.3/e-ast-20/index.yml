@@ -1,9 +1,0 @@
-id: 030ed601-bdbc-572a-8c2c-94580fdfd46c
-code: "E-AST-20"
-name: "Secure Baseline Configurations - Server Class Systems"
-description: "Documented evidence of secure baseline configurations for all deployed types of server-class operating systems."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 8c13d6b5-bfbb-5a9f-bef7-9af79c913b00
-code: "E-GOV-01.17"
-name: "Incident Response Policy"
-description: "Documented evidence of a incident response policy."
-category: confirmation
-format: file
-domain: "gov"
-status: published
-tags: []

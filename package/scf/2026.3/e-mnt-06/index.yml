@@ -1,9 +1,0 @@
-id: eeb3cbe7-5cd9-552a-b76b-c46f43e48572
-code: "E-MNT-06"
-name: "Remote Maintenance Records"
-description: "Documented evidence of remote maintenance sessions, including pre-approval, notification, cryptographic protection, disconnect verification and audit records."
-category: confirmation
-format: file
-domain: "mnt"
-status: published
-tags: []

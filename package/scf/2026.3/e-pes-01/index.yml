@@ -1,9 +1,0 @@
-id: 9357a59d-a864-5d47-8f01-320b0e0ac734
-code: "E-PES-01"
-name: "Environmental Monitoring"
-description: "Documented evidence of environmental monitoring (e.g., water leaks, temperature, humidity, etc.)"
-category: confirmation
-format: file
-domain: "pes"
-status: published
-tags: []

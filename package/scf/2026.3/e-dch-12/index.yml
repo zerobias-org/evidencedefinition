@@ -1,9 +1,0 @@
-id: 4a84d4e2-4c95-54d0-8f4b-4066cc80d0d8
-code: "E-DCH-12"
-name: "Publicly Accessible Information Reviews"
-description: "Documented evidence of reviews for publicly accessible sensitive / regulated data."
-category: confirmation
-format: file
-domain: "dch"
-status: published
-tags: []

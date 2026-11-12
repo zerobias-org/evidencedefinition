@@ -1,9 +1,0 @@
-id: 30e8ed1c-5b95-5b0e-818c-eee83862cebc
-code: "E-GOV-01.33"
-name: "Vulnerability & Patch Management Policy"
-description: "Documented evidence of a vulnerability and patch management policy."
-category: confirmation
-format: file
-domain: "gov"
-status: published
-tags: []

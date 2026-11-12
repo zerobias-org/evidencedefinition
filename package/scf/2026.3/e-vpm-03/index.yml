@@ -1,9 +1,0 @@
-id: 8d253773-d075-582b-a02a-108d098c7131
-code: "E-VPM-03"
-name: "Penetration Testing - Network"
-description: "Documented evidence of internal and external network penetration testing activities that focus on discovering and exploiting security vulnerabilities."
-category: confirmation
-format: file
-domain: "vpm"
-status: published
-tags: []

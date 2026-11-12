@@ -1,9 +1,0 @@
-id: 2f2be02d-8cd4-578d-8ed3-47e5cff87831
-code: "E-PRM-04"
-name: "Targeted Maturity Level"
-description: "Documented evidence of a targeted level of control maturity from a Capability Maturity Model (CMM)."
-category: confirmation
-format: file
-domain: "prm"
-status: published
-tags: []

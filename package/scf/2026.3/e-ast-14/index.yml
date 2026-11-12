@@ -1,9 +1,0 @@
-id: 9d798ac5-bec7-5ca8-a22f-89b8340a5845
-code: "E-AST-14"
-name: "Secure Baseline Configurations - Databases"
-description: "Documented evidence of secure baseline configurations for all deployed types of databases."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

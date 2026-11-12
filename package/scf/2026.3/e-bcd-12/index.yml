@@ -1,9 +1,0 @@
-id: 95baa69e-d616-5e27-b51c-aa7a9ee2bcdd
-code: "E-BCD-12"
-name: "Data Backups - Remote"
-description: "Documented evidence of event logs for the off-site / remote data backup solution."
-category: confirmation
-format: file
-domain: "bcd"
-status: published
-tags: []

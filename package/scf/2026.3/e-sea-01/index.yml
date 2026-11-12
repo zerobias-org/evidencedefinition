@@ -1,9 +1,0 @@
-id: 63601b03-4923-502f-8a6f-b099d8a3b8ca
-code: "E-SEA-01"
-name: "Logon Banner"
-description: "Documented evidence of a system use notification message or logon banner."
-category: confirmation
-format: file
-domain: "sea"
-status: published
-tags: []

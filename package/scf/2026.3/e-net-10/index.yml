@@ -1,9 +1,0 @@
-id: f476d50e-19dd-553d-89f2-43ec33295182
-code: "E-NET-10"
-name: "Information Flow Control"
-description: "Documented evidence of information flow control mechanisms (e.g., Access Control Lists, etc.)."
-category: confirmation
-format: file
-domain: "net"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: dc7f04a1-e007-5b9c-9da2-835bea9ed58b
-code: "E-AST-18"
-name: "Secure Baseline Configurations - Mobile Devices"
-description: "Documented evidence of secure baseline configurations for all deployed types of mobile devices."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

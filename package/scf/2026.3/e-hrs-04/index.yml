@@ -1,9 +1,0 @@
-id: a6bf2154-f487-5278-95e5-a18edbb6bbb3
-code: "E-HRS-04"
-name: "Assigned Roles - Data Privacy Staff"
-description: "List of employed or contract personnel assigned to data privacy roles."
-category: confirmation
-format: file
-domain: "hrs"
-status: published
-tags: []

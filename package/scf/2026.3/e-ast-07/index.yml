@@ -1,9 +1,0 @@
-id: 8185aad8-a14d-5312-87bd-06894f374d11
-code: "E-AST-07"
-name: "Cyber-Physical Systems (CPS)"
-description: "Documented evidence of an inventory of the organization's physical assets that process functions based on software and networks."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

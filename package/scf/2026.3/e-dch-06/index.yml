@@ -1,9 +1,0 @@
-id: a4ecacf1-5c0e-5390-9029-b9cd6590d2da
-code: "E-DCH-06"
-name: "Third-Party Inventories"
-description: "Documented evidence of an inventory of External Service Providers (ESP), contractors, vendors, etc. that directly or indirectly impact the organization's Technology Assets, Applications, Services and/or Data (TAASD)."
-category: confirmation
-format: file
-domain: "dch"
-status: published
-tags: []

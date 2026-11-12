@@ -1,9 +1,0 @@
-id: 14be19da-4c74-5287-8135-9873c3503ee0
-code: "E-NET-05"
-name: "Zero Trust Architecture (ZTA)"
-description: "Documented evidence of controls that would enable the organization to claim conformity with Zero Trust (ZT) principles."
-category: confirmation
-format: file
-domain: "net"
-status: published
-tags: []

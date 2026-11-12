@@ -1,9 +1,0 @@
-id: 07e8991d-b38a-5ed1-abd1-04028da79ef2
-code: "E-MNT-04"
-name: "Maintenance Activities"
-description: "Documented evidence of maintenance activities for the organization's Technology Assets, Applications and/or Services (TAAS)."
-category: confirmation
-format: file
-domain: "mnt"
-status: published
-tags: []

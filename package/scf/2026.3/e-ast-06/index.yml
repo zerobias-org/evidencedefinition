@@ -1,9 +1,0 @@
-id: f6588dce-b139-5c99-b9f0-18513829da26
-code: "E-AST-06"
-name: "Asset Inventories - Cloud Service Provider (CSP)"
-description: "Documented evidence of an inventory of the organization's cloud-based services (e.g., SaaS, IaaS, PaaS, etc.)."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

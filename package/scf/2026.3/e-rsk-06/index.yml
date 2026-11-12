@@ -1,9 +1,0 @@
-id: afff8e07-abca-5603-bbfb-17024a202187
-code: "E-RSK-06"
-name: "Risk Threshold"
-description: "Documented evidence the organization has a defined risk threshold."
-category: confirmation
-format: file
-domain: "rsk"
-status: published
-tags: []

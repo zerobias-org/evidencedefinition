@@ -1,9 +1,0 @@
-id: 27288906-c7d9-56fb-b112-cb068dbdb921
-code: "E-QTS-09"
-name: "Zero Trust Network Architecture (ZTNA)"
-description: "Documented evidence of Zero Trust Network Architecture (ZTNA) (e.g., architecture diagrams, segmentation matrices, access policies, etc.)."
-category: confirmation
-format: file
-domain: "qts"
-status: published
-tags: []

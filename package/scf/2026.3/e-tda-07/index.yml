@@ -1,9 +1,0 @@
-id: c4d03c3e-963f-5e02-bc25-7843bbcc84f9
-code: "E-TDA-07"
-name: "Ports, Protocols & Services (PPS)"
-description: "Documented evidence of all ports, protocols and services in use by the system, application or service."
-category: confirmation
-format: file
-domain: "tda"
-status: published
-tags: []

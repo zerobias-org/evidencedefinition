@@ -1,9 +1,0 @@
-id: 1d91e0c6-a601-5ed8-9393-46e8ca72f0d3
-code: "E-AST-16"
-name: "Secure Baseline Configurations - Major Applications"
-description: "Documented evidence of secure baseline configurations for all deployed types of major applications."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

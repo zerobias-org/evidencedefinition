@@ -1,9 +1,0 @@
-id: 9e0eba15-168c-574f-8c96-44dde8715c79
-code: "E-END-02"
-name: "Malware Tool Updates"
-description: "Documented evidence of malicious code protection updates."
-category: confirmation
-format: file
-domain: "end"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 2a4ff6ea-79f1-5b56-a6a7-b0af23d50588
-code: "E-AST-11"
-name: "Data Retention Program"
-description: "Documented evidence of a formal data retention program that governs the retention and destruction of data types."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 2f53f0aa-d03d-5fe1-b650-89d14f144f6c
-code: "E-AST-13"
-name: "Secure Baseline Configurations - Cloud-Based Services"
-description: "Documented evidence of secure baseline configurations for all deployed types of cloud-based services or applications."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

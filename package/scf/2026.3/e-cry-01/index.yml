@@ -1,9 +1,0 @@
-id: a1df8842-5113-5ec4-bf0d-53dc24e2fdc0
-code: "E-CRY-01"
-name: "Cryptographic Protections"
-description: "Documented evidence of organization-approved cryptographic solutions and modules for both data at rest and in transit."
-category: confirmation
-format: file
-domain: "cry"
-status: published
-tags: []

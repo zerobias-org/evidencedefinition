@@ -1,9 +1,0 @@
-id: c69c7e22-7dc3-5835-be05-273cfcd03d9a
-code: "E-END-01"
-name: "Endpoint Security Tools"
-description: "Documented evidence of endpoint security tools employed by the organization to ensure secure, compliant and resilient Technology Assets, Applications and/or Services (TAAS) (e.g., antimalware, FIM, etc.)."
-category: confirmation
-format: file
-domain: "end"
-status: published
-tags: []

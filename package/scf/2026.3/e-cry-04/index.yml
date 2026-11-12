@@ -1,9 +1,0 @@
-id: 5724a525-575a-5b33-8036-62c776d5243f
-code: "E-CRY-04"
-name: "Public Key Infrastructure (PKI) Documentation"
-description: "Documented evidence of Public Key Infrastructure (PKI) implementation, availability and approved Certificate Authorities (CAs)."
-category: confirmation
-format: file
-domain: "cry"
-status: published
-tags: []

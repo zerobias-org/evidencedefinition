@@ -1,9 +1,0 @@
-id: 551efbb2-698c-50f3-8ebe-8b7bd7c8cbea
-code: "E-AST-12"
-name: "Secure Baseline Configurations Reviews"
-description: "Documented evidence of a review process to ensure Secure Baseline Configurations (SBC) are current and applicable (e.g., system configuration settings and associated documentation)."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: ccee81fb-d434-508f-b5ef-f055e5582e2e
-code: "E-VPM-07"
-name: "Flaw Remediation Change Control"
-description: "Documented evidence of installation/change control records for security-relevant software and firmware updates."
-category: confirmation
-format: file
-domain: "vpm"
-status: published
-tags: []

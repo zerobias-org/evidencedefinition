@@ -1,9 +1,0 @@
-id: fd8a1f19-1e76-5f8f-b96f-184b5862704d
-code: "E-MON-06"
-name: "Automated Event Escalation & Reporting"
-description: "Documented evidence of a capability for selected events to alert applicable personnel, or roles, based on the type of event. This can be demonstrated by the configuration of a Security Incident Event Manager (SIEM), or similar technology, that helps automate event log analysis and reporting."
-category: confirmation
-format: file
-domain: "mon"
-status: published
-tags: []

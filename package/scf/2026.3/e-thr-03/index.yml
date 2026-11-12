@@ -1,9 +1,0 @@
-id: 1dba0798-6f89-55ab-b19f-75481220e9f9
-code: "E-THR-03"
-name: "Threat Intelligence Feeds (TIF)"
-description: "Documented evidence of threat intelligence feeds."
-category: confirmation
-format: file
-domain: "thr"
-status: published
-tags: []

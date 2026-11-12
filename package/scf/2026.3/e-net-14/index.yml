@@ -1,9 +1,0 @@
-id: d8600cb5-29ac-50d5-bef0-3e7a7376bcd9
-code: "E-NET-14"
-name: "Wireless Networking Configuration"
-description: "Documented evidence of wireless networking configuration, including authentication and encryption, wireless boundaries and guest network isolation."
-category: confirmation
-format: file
-domain: "net"
-status: published
-tags: []

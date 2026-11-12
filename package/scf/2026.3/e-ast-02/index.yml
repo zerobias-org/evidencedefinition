@@ -1,9 +1,0 @@
-id: b09eb180-b76f-51b4-b5d7-4d1f74be8ab5
-code: "E-AST-02"
-name: "Asset Scoping Guidance"
-description: "Documented evidence of an asset scoping guidance. This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on defining in-scope Technology Assets, Applications, Services and/or Data (TAASD) (including third-parties)."
-category: confirmation
-format: file
-domain: "ast"
-status: published
-tags: []

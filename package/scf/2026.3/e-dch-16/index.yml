@@ -1,9 +1,0 @@
-id: 6adfaeec-6801-5854-bc11-2e837042f028
-code: "E-DCH-16"
-name: "Data Loss Prevention (DLP) Configuration"
-description: "Documented evidence of Data Loss Prevention (DLP) and exfiltration prevention configurations."
-category: confirmation
-format: file
-domain: "dch"
-status: published
-tags: []

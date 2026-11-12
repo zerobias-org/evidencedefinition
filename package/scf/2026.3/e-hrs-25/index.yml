@@ -1,9 +1,0 @@
-id: c7c326b2-6e85-519b-9860-2cd1639c2400
-code: "E-HRS-25"
-name: "Separation of Duties (SoD)"
-description: "Documented evidence of personnel management practices to implement and maintain Separation of Duties (SoD) to prevent potential inappropriate activity without collusion."
-category: confirmation
-format: file
-domain: "hrs"
-status: published
-tags: []

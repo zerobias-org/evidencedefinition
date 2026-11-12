@@ -1,9 +1,0 @@
-id: 4cccf411-03d0-530a-9c8c-4d664d5852eb
-code: "E-VPM-06"
-name: "Attack Surface Scope"
-description: "Documented evidence of the organization defining its attack surface (e.g., may be in the form of graphical network diagrams or other forms of written documentation)."
-category: confirmation
-format: file
-domain: "vpm"
-status: published
-tags: []

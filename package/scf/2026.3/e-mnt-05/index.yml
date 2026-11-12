@@ -1,9 +1,0 @@
-id: 471f549e-1581-58e0-a83b-5a73daf0018f
-code: "E-MNT-05"
-name: "Maintenance Tool Inspection Records"
-description: "Documented evidence of maintenance tool inspection records."
-category: confirmation
-format: file
-domain: "mnt"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 2bd24cdb-6bfb-5fc2-ab79-c96e9cf77cbc
-code: "E-HRS-02"
-name: "Assigned Roles - Application Developers"
-description: "List of employed or contract personnel assigned to application development roles."
-category: confirmation
-format: file
-domain: "hrs"
-status: published
-tags: []

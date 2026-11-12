@@ -1,9 +1,0 @@
-id: feccfaa6-d973-5202-be79-a70153d9250d
-code: "E-CPL-05"
-name: "Internal Audit (IA) Findings"
-description: "Documented evidence of a centrally-managed and prioritized repository Internal Audit (IA) findings."
-category: confirmation
-format: file
-domain: "cpl"
-status: published
-tags: []

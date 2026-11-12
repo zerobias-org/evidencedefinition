@@ -1,9 +1,0 @@
-id: 1d102c0e-51e6-557f-942e-053e04a4fde6
-code: "E-PRI-03"
-name: "Data Authority Registrations"
-description: "Documented evidence of registrations made with applicable data authorities for privacy-related data processing."
-category: confirmation
-format: file
-domain: "pri"
-status: published
-tags: []

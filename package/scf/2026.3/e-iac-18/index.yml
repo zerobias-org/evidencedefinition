@@ -1,9 +1,0 @@
-id: be106cca-0708-5014-90fc-ef47c66cbfb9
-code: "E-IAC-18"
-name: "Emergency / Temporary Account Records"
-description: "Documented evidence of emergency and temporary accounts, including approvals and removal."
-category: confirmation
-format: file
-domain: "iac"
-status: published
-tags: []

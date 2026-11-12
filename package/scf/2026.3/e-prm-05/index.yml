@@ -1,9 +1,0 @@
-id: bb7fc85f-7053-5fb3-b237-83d41f7764dd
-code: "E-PRM-05"
-name: "System Design Document (SDD)"
-description: "Documented evidence of a System Design Document (SDD) focuses on how a Technology Asset, Application and/or Service (TAAS) is built (e.g., architecture, components, data flow, functions, etc.)."
-category: confirmation
-format: file
-domain: "prm"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: 4a6cf782-10a2-56c5-bffc-e800d042be59
-code: "E-QTS-02"
-name: "Post-Quantum Cryptography (PQC)-Specific Status Reporting"
-description: "Documented evidence of a Post-Quantum Cryptography (PQC)-specific board / risk committee reporting pack (e.g., status, metrics/analytics, exceptions, etc.)."
-category: confirmation
-format: file
-domain: "qts"
-status: published
-tags: []

@@ -1,9 +1,0 @@
-id: ccbac162-e787-54c9-9d7e-176175e2b886
-code: "E-THR-06"
-name: "Threat Catalog"
-description: "Documented evidence of a threat catalog."
-category: confirmation
-format: file
-domain: "thr"
-status: published
-tags: []

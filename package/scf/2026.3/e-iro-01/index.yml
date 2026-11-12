@@ -1,9 +1,0 @@
-id: c4cc1cc2-5f36-5c67-9162-6ced2e1c7837
-code: "E-IRO-01"
-name: "Incident Response Plan (IRP)"
-description: "Documented evidence of a Incident Response Plan (IRP). This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
-category: confirmation
-format: file
-domain: "iro"
-status: published
-tags: []
