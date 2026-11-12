@@ -1,0 +1,15 @@
+id: fd816dd3-b483-547b-9a8b-53ac57e07fe0
+code: POP-EUD
+name: List of End User Devices
+description: |-
+  List of devices  used by an employee or contractor.
+
+  query {
+  EndUserDevice { 
+    name
+  id  
+  }
+  }
+category: population
+status: published
+tags: []

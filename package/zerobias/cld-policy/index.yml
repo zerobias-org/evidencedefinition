@@ -1,0 +1,7 @@
+id: 4ddc1ef7-b0df-5208-839f-e6898313a185
+code: cld-policy
+name: Cloud Security Policies and Procedures
+description: Organizations govern the use of private and public cloud environments (e.g., IaaS, PaaS and SaaS) to holistically manage risks associated with third-party involvement and architectural decisions, as well as to ensure the portability of data to change cloud providers, if needed.
+category: policy
+status: published
+tags: []

@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-zerobias-iac-17",
+  "version": "1.0.0",
+  "description": "Periodic Review of Account Privileges evidence definition artifact.",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/zerobias/iac-17/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "zerobias.iac-17.evidencedefinition"
+  }
+}

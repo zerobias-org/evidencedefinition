@@ -1,0 +1,7 @@
+id: 07df2b85-1549-52f1-94b5-11bedf892262
+code: emb-policy
+name: Embedded Technology Policies and Procedures
+description: Organizations specify the development, proactive management and ongoing review of security embedded technologies, including hardening of the “stack” from the hardware, to firmware, software, transmission and service protocols used for Internet of Things (IoT) and Operational Technology (OT) devices.
+category: policy
+status: published
+tags: []

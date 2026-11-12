@@ -1,0 +1,9 @@
+id: 7a1ca2c4-b0cb-5f0f-af4c-9da10a425533
+code: e-hrs-27
+name: List of Terminated Employees
+description: A list of all personnel that was terminated during a specified lookback period.
+category: population
+format: data
+domain: hrs
+status: published
+tags: []

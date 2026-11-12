@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-zerobias-iro-d-iirp",
+  "version": "1.0.0",
+  "description": "Integratd Incident Response Plan (IIRP) evidence definition artifact.",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/zerobias/iro-d-iirp/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "zerobias.iro-d-iirp.evidencedefinition"
+  }
+}

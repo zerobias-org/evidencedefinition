@@ -1,0 +1,7 @@
+id: b1c24e52-9276-5ab2-bfde-4838846baaba
+code: ATARC-09
+name: Ensure MFA is enabled for all users in all environments
+description: Return the MFA status in AD for all users in scope.
+category: population
+status: published
+tags: []

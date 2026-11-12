@@ -1,0 +1,16 @@
+id: 0d91d781-8654-533b-9b15-c6d578c9ae63
+code: hrs-s-screening
+name: Employee Risk Screening
+description: |-
+  Evidence that the organization manages personnel security risk by screening individuals prior to authorizing access.
+
+  Example evidence for a selected employee:
+
+  - Documentation demonstrating that employees were evaluated prior to being hired for a sample of new hires.
+  - Criminal background checks
+  - Verification of Education
+  - Reference Checks
+   -Verification of Work Experience
+category: sample
+status: published
+tags: []

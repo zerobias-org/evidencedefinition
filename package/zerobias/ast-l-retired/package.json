@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-zerobias-ast-l-retired",
+  "version": "1.0.0",
+  "description": "List of Retired Assets evidence definition artifact.",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/zerobias/ast-l-retired/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "zerobias.ast-l-retired.evidencedefinition"
+  }
+}

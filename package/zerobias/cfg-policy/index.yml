@@ -1,0 +1,7 @@
+id: f3eb569e-9d9d-5352-9c73-d5aaf90dd16f
+code: cfg-policy
+name: Configuration Management Policies and Procedures
+description: Organizations establish and maintain the integrity of systems. Without properly documented and implemented configuration management controls, security features can be inadvertently or deliberately omitted or rendered inoperable, allowing processing irregularities to occur or the execution of malicious code.
+category: policy
+status: published
+tags: []

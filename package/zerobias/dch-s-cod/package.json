@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-zerobias-dch-s-cod",
+  "version": "1.0.0",
+  "description": "Certificate of Destruction evidence definition artifact.",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/zerobias/dch-s-cod/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "zerobias.dch-s-cod.evidencedefinition"
+  }
+}

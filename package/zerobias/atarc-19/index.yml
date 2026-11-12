@@ -1,0 +1,7 @@
+id: 1acd6827-efb0-50c3-8a8c-3047bf6624a0
+code: ATARC-19
+name: Show approver/merge is not same person who opened the PR
+description: Ensure the same person who made the changes is not the person who approves and merges
+category: confirmation
+status: published
+tags: []

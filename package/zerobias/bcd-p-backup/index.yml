@@ -1,0 +1,11 @@
+id: f272f0a6-b813-5d5b-8823-fea22e87109d
+code: bcd-p-backup
+name: Backup Policy
+description: |-
+  Evidence that the organization has a backup policy that specifies the rules and procedures that describe the strategy when making backup copies of data for safekeeping.
+
+  Example evidence:
+  -Backup Policy
+category: policy
+status: published
+tags: []

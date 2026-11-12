@@ -1,0 +1,7 @@
+id: 3c5c80af-184d-5ae8-ad3f-456de3f25da4
+code: ATARC-06
+name: Show list of Groups and Group permissions in AD
+description: Provide a list of all groups in Active Directory (AD) that are in scope
+category: population
+status: published
+tags: []

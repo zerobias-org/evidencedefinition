@@ -1,0 +1,7 @@
+id: 68d3d014-259f-5af4-ad80-e848af722a84
+code: ATARC-04
+name: Show list of users in AD
+description: Provide a list of all user accounts Active Directory (AD) that are in scope
+category: population
+status: published
+tags: []

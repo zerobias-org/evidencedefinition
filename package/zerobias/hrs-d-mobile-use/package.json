@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-zerobias-hrs-d-mobile-use",
+  "version": "1.0.0",
+  "description": "Mobile Device Acceptable Use evidence definition artifact.",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/zerobias/hrs-d-mobile-use/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "zerobias.hrs-d-mobile-use.evidencedefinition"
+  }
+}

@@ -1,0 +1,7 @@
+id: 21cf5dec-9b72-5677-90d9-a8ca00cd977f
+code: web-policy
+name: Web Security Policies and Procedures
+description: Organizations address the risks associated with Internet-accessible technologies by hardening devices, monitoring system file integrity, enabling auditing, and monitoring for malicious activities.
+category: policy
+status: published
+tags: []
