@@ -1,0 +1,27 @@
+{
+  "name": "@zerobias-org/evidencedefinition-zerobias-net-d-diagram",
+  "version": "1.0.0",
+  "description": "Network Diagram evidence definition artifact.",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/zerobias/net-d-diagram/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "zerobias.net-d-diagram.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-net-d-diagram"
+  }
+}

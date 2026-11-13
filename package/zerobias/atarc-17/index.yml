@@ -1,0 +1,7 @@
+id: 7551ef62-20fb-518a-965e-7fe4b323618c
+code: ATARC-17
+name: "Show list of\_ pull requests"
+description: Return all Pull Requests for a given Repo
+category: population
+status: published
+tags: []

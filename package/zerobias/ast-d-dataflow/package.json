@@ -1,0 +1,27 @@
+{
+  "name": "@zerobias-org/evidencedefinition-zerobias-ast-d-dataflow",
+  "version": "1.0.0",
+  "description": "Data Flow Diagrams (DFDs) evidence definition artifact.",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/zerobias/ast-d-dataflow/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "zerobias.ast-d-dataflow.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-ast-d-dataflow"
+  }
+}

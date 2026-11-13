@@ -1,0 +1,14 @@
+id: 419217e2-b173-5271-b47e-8d1b495c6ae4
+code: iac-s-provisioning
+name: Employee Provisioning & De-Provisioning
+description: |-
+  Evidence that the organization utilizes a formal user registration and de-registration process that governs the assignment of access rights.
+
+  Example evidence for a selected Employee:
+
+  - On-boarding Tickets
+  - Approvals or Permissions and Roles
+  - Off-boarding Tickets
+category: sample
+status: published
+tags: []

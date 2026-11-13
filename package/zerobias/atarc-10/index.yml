@@ -1,0 +1,7 @@
+id: 41c62c9c-dfa8-57c4-ac92-103a8a8d08be
+code: ATARC-10
+name: Show all accounts to applications in scope associated to each employee
+description: Provide a list of all applications active employees have access to and their associated account names and permission set
+category: population
+status: published
+tags: []

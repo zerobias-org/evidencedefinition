@@ -1,0 +1,14 @@
+id: c377cb4f-2100-5570-846a-c199d1224bb7
+code: dch-s-cod
+name: Certificate of Destruction
+description: |-
+  Evidence that the the organization securely disposes of, destroys or erases information.
+
+  Examples:
+
+  - Shred-it Certificate of Destruction
+  - IronMountain Certifcate of Destruction
+  - IronMountain Connect Program Monitoring Report
+category: sample
+status: published
+tags: []

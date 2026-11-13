@@ -1,0 +1,10 @@
+id: 91149028-2497-5403-8db7-24451e202337
+code: net-d-diagram
+name: Network Diagram
+description: |-
+  Evidence that the organization maintains network architecture diagrams that: 
+   - Contain sufficient detail to assess the security of the network's architecture;
+   - Reflect the current architecture of the network environment
+category: documentation
+status: published
+tags: []

@@ -1,0 +1,10 @@
+id: b2b3c0a3-02ad-5931-936a-04fcce013324
+code: bcd-l-critical
+name: List of Critical Systems
+description: |-
+  Evidence that the organization identifies and documents the critical systems, applications and services that support essential missions and business functions.
+  Example evidence:
+  - Criticality Assessments - List of  Company critical assets / component
+category: population
+status: published
+tags: []

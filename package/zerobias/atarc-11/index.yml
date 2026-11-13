@@ -1,0 +1,7 @@
+id: 879653c4-4719-5242-ba2c-feea8ec76085
+code: ATARC-11
+name: Show list of users in Jira
+description: Provide a list of all Jira users in scope
+category: population
+status: published
+tags: []

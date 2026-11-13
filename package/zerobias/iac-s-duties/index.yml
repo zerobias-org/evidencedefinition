@@ -1,0 +1,12 @@
+id: 2242c4f0-3249-50f6-bcb2-f4d39811d40a
+code: iac-s-duties
+name: Change of Roles & Duties
+description: |-
+  Evidence that the organization revokes user access rights following changes in personnel roles and duties, if no longer necessary or permitted.
+
+  Example evidence:
+  - Tickets & Approvals required to gain roles/access
+  - Tickets revoking access
+category: sample
+status: published
+tags: []

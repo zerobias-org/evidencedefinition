@@ -1,0 +1,10 @@
+id: 475bd12c-71ce-50bd-85a3-1108a996edc3
+code: iro-d-iirp
+name: Integratd Incident Response Plan (IIRP)
+description: |-
+  The ISIRT, or similar function, develops and maintains a documented Integrated Incident Response Program (IIRP) that provides operational and tactical-level guidance that governs cybersecurity and privacy response operations.
+  Example evidence:
+  - Cybersecurity Incident Response Plan (IIRP)
+category: documentation
+status: published
+tags: []

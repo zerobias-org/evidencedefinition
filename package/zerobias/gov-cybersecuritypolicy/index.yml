@@ -1,0 +1,11 @@
+id: df2709fb-d600-5bd1-baff-b090c2c1d823
+code: gov-cybersecuritypolicy
+name: Cybersecurity Policy
+description: |-
+  Evidence that the organization has a cybersecurity policy that is aligned with a leading cybersecurity framework (e.g., NIST 800-53, ISO 27002 or NIST Cybersecurity Framework).
+
+  Example evidence:
+  -Cybersecurity/Security Policy
+category: policy
+status: published
+tags: []
