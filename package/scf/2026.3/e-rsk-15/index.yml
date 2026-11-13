@@ -1,0 +1,9 @@
+id: 524ba378-8cb3-5a27-95d7-6fe0d373179d
+code: "E-RSK-15"
+name: "Instances Requiring A Risk Assessment"
+description: "Documented criteria that define instances requiring a risk assessment to be performed."
+category: confirmation
+format: file
+domain: "rsk"
+status: published
+tags: []

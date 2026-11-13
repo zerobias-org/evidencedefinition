@@ -1,0 +1,9 @@
+id: 96fc3d43-ae05-59c1-ac97-b66fe4ac7cb9
+code: "E-IAO-06"
+name: "Security Authorization Records"
+description: "Documented evidence of security authorization decisions (e.g., Authorization To Operate (ATO)) for in-scope Technology Assets, Applications and/or Services (TAAS)."
+category: confirmation
+format: file
+domain: "iao"
+status: published
+tags: []

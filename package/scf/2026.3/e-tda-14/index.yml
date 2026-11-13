@@ -1,0 +1,9 @@
+id: d8135d32-c344-58ad-92d3-6f7ccbaf6a92
+code: "E-TDA-14"
+name: "System Security Plan (SSP)"
+description: "Documented evidence of at least one (1) System Security Plan (SSP) that covers the sensitive/regulated data environment. There may be multiple SSPs, based on applicable contracts."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

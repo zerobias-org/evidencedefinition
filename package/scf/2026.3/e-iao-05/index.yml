@@ -1,0 +1,9 @@
+id: b6fb7b46-4da6-5103-b5b6-9380286f192c
+code: "E-IAO-05"
+name: "Security Assessment Report"
+description: "Documented evidence of a report on security assessments."
+category: confirmation
+format: file
+domain: "iao"
+status: published
+tags: []

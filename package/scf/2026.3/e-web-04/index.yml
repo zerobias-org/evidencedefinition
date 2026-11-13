@@ -1,0 +1,9 @@
+id: ba8377d7-deab-58ee-ba3f-87319bab8413
+code: "E-WEB-04"
+name: "Web Application Input Validation & Output Encoding"
+description: "Documented evidence of web application input validation, sanitization and output encoding controls (e.g., test results, framework configuration)."
+category: confirmation
+format: file
+domain: "web"
+status: published
+tags: []

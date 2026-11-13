@@ -1,0 +1,9 @@
+id: 83b5318d-057e-58b4-956f-568808e869b4
+code: "E-MNT-02"
+name: "Maintenance Plan"
+description: "Documented evidence of a Maintenance Plan. This is program-level documentation in the form of a runbook, playbook or a similar format provides guidance on organizational practices that support existing policies and standards."
+category: confirmation
+format: file
+domain: "mnt"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: fe920215-7db3-5208-b4ab-2d2902983c7c
+code: "E-VPM-08"
+name: "Flaw Remediation Test Results"
+description: "Documented evidence of test results from the installation of software and firmware updates to correct system flaws."
+category: confirmation
+format: file
+domain: "vpm"
+status: published
+tags: []

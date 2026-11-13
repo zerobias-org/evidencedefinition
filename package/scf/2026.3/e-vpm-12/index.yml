@@ -1,0 +1,9 @@
+id: 75041a2f-39d0-570b-b61e-a30cf3bd36f2
+code: "E-VPM-12"
+name: "Known Exploited Vulnerabilities (KEV) Mitigation Records"
+description: "Documented evidence of Known Exploited Vulnerabilities (KEV) identification and mitigation status."
+category: confirmation
+format: file
+domain: "vpm"
+status: published
+tags: []

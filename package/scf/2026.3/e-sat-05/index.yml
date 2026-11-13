@@ -1,0 +1,9 @@
+id: 115348dc-9b0f-5423-80d0-f7938e470e9b
+code: "E-SAT-05"
+name: "Role-Based Training"
+description: "Documented evidence of specialized user training for privileged users, executives, individuals who handle sensitive/regulated data, etc."
+category: confirmation
+format: file
+domain: "sat"
+status: published
+tags: []

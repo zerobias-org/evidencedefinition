@@ -1,0 +1,9 @@
+id: 5b281e02-ed66-53ea-8908-baddfef2573c
+code: "E-NET-07"
+name: "External System Accessibility"
+description: "Documented evidence of a list of Technology Assets, Applications and/or Services (TAAS) accessible from third-party entities."
+category: confirmation
+format: file
+domain: "net"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 9b4f8196-e634-5684-8613-0cb50195464d
+code: "E-PRI-09"
+name: "Record of Processing Activities (RoPA)"
+description: "Documented evidence of Personal Data (PD) processing activities (e.g., Record of Processing Activities (RoPA)) including data lineage."
+category: confirmation
+format: file
+domain: "pri"
+status: published
+tags: []

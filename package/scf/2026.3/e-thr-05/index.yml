@@ -1,0 +1,9 @@
+id: 9455a89d-4b96-5f63-8f91-15588053e08c
+code: "E-THR-05"
+name: "Threat Mitigation"
+description: "Documented evidence of steps taken to mitigate identified threats."
+category: confirmation
+format: file
+domain: "thr"
+status: published
+tags: []

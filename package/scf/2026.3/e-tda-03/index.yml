@@ -1,0 +1,9 @@
+id: 28bd3973-2671-5334-8ca8-0ff455f2e47f
+code: "E-TDA-03"
+name: "Application Security Testing (AST)"
+description: "Documented evidence of application security testing (e.g., DAST, SAST, fuzzing, etc.)."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []
