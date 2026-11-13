@@ -1,0 +1,9 @@
+id: 3d63bd01-b06f-5177-b7b3-3635e3cbfcbd
+code: "E-IRO-13"
+name: "Incident Response Records"
+description: "Documented evidence of records of response to cybersecurity and/or data protection incidents."
+category: confirmation
+format: file
+domain: "iro"
+status: published
+tags: []

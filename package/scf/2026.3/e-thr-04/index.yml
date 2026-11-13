@@ -1,0 +1,9 @@
+id: 0b0f634c-5468-5dd4-ad48-cbbe4c926956
+code: "E-THR-04"
+name: "Threat Intelligence Program (TIP)"
+description: "Documented evidence of a formal capability that intakes and analysis threat information to determine specific threat to the organization and necessary actions to mitigate the threat(s)."
+category: confirmation
+format: file
+domain: "thr"
+status: published
+tags: []

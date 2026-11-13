@@ -1,0 +1,9 @@
+id: 4735faf1-3cbe-514c-ab0e-1a7de37f8852
+code: "E-IAC-09"
+name: "Access Authorization Records"
+description: "Documented evidence of access authorization records."
+category: confirmation
+format: file
+domain: "iac"
+status: published
+tags: []

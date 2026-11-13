@@ -1,0 +1,9 @@
+id: ea86114c-6800-5105-8c7b-179d7427bb20
+code: "E-TDA-16"
+name: "Vulnerability Disclosure Program (VDP)"
+description: "Documented evidence of a Vulnerability Disclosure Program (VDP) (e.g., bug bounty)."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

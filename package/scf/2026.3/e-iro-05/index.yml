@@ -1,0 +1,9 @@
+id: 0d11017e-8b76-59c7-8f6b-a532c8d66235
+code: "E-IRO-05"
+name: "Table Top Exercises"
+description: "Documented evidence of \"table top\" exercises that test incident response practices."
+category: confirmation
+format: file
+domain: "iro"
+status: published
+tags: []

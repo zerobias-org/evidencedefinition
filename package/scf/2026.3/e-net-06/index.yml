@@ -1,0 +1,9 @@
+id: 3803b0bb-dd00-5e61-be6d-4865fb3c33e1
+code: "E-NET-06"
+name: "Authorized Network Connections"
+description: "Documented evidence of third-party Technology Assets, Applications and/or Services (TAAS) authorized to connect to organizational TAAS, including remote access authorizations."
+category: confirmation
+format: file
+domain: "net"
+status: published
+tags: []

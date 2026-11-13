@@ -1,0 +1,9 @@
+id: 347c34e8-0d5d-5af8-895a-80bc95e393c8
+code: "E-MON-03"
+name: "Privileged User Oversight"
+description: "Documented evidence of privileged user activity being logged and included as part of the centralized event log collection and review/analysis process."
+category: confirmation
+format: file
+domain: "mon"
+status: published
+tags: []

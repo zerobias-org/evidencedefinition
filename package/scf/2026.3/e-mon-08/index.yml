@@ -1,0 +1,9 @@
+id: 19327175-5a1a-5fcf-9af1-2c85fd647fb3
+code: "E-MON-08"
+name: "Integrity Monitoring"
+description: "Documented evidence of integrity monitoring, where files and/or configurations on critical Technology Assets, Applications and/or Services (TAAS) are actively monitored for changes that could indicate unauthorized changes."
+category: confirmation
+format: file
+domain: "mon"
+status: published
+tags: []

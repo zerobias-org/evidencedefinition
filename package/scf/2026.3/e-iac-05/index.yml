@@ -1,0 +1,9 @@
+id: ae4dfaa7-d23f-5645-915e-fc3591aacaa7
+code: "E-IAC-05"
+name: "Identity & Access Management (IAM) Function"
+description: "Documented evidence of an Identity & Access Management (IAM), or similar function, that facilitates the implementation of identification and access management controls."
+category: confirmation
+format: file
+domain: "iac"
+status: published
+tags: []

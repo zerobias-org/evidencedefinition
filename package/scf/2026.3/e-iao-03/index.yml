@@ -1,0 +1,9 @@
+id: 9ec11bd2-cebe-57d4-bb02-832bbf697a16
+code: "E-IAO-03"
+name: "Pre-Production Controls Testing"
+description: "Documented evidence of pre-production cybersecurity & data protection controls testing to determine the extent to which the controls are implemented correctly, operating as intended and producing the desired outcome with respect to meeting expected requirements."
+category: confirmation
+format: file
+domain: "iao"
+status: published
+tags: []

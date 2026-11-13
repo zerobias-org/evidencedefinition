@@ -1,0 +1,9 @@
+id: 189bdea0-fce7-5c06-9da1-d7e1b5757f5a
+code: "E-QTS-12"
+name: "Cryptographic Incident Playbooks"
+description: "Documented evidence of incident playbooks and exercise records for cryptographic scenarios."
+category: confirmation
+format: file
+domain: "qts"
+status: published
+tags: []

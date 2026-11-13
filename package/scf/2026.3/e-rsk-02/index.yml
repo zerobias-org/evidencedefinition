@@ -1,0 +1,9 @@
+id: b586e652-fa1d-560b-883c-fc8e2ff4081b
+code: "E-RSK-02"
+name: "Supply Chain Risk Management (SCRM) Plan"
+description: "Documented evidence of a Supply Chain Risk Management (SCRM) Plan. This is program-level documentation in the form of a playbook, concept of operations or a similar format provides guidance on organizational practices that support existing policies and standards."
+category: confirmation
+format: file
+domain: "rsk"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 0fd874cb-3242-504f-9689-69ea86a8313a
+code: "E-IRO-08"
+name: "Root Cause Analysis (RCA)"
+description: "Documented evidence of a Root Cause Analysis (RCA) from any Incident Response Plan (IRP)-related training, testing or significant incident."
+category: confirmation
+format: file
+domain: "iro"
+status: published
+tags: []

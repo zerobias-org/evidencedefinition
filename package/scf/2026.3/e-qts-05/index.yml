@@ -1,0 +1,9 @@
+id: 4f3fc5b4-0f79-55dc-8dc2-5586df5a1de0
+code: "E-QTS-05"
+name: "Cryptographic Bill of Materials (CBOM)"
+description: "Documented evidence of a Cryptographic Bill of Materials (CBOM)."
+category: confirmation
+format: file
+domain: "qts"
+status: published
+tags: []
