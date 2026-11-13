@@ -1,0 +1,9 @@
+id: 5ba46ad7-3234-56b8-bb83-e2fa11a98668
+code: "E-CPL-13"
+name: "Evidence Request List (ERL) & Sampling Criteria"
+description: "Documented evidence of the Evidence Request List (ERL) and evidence sampling criteria defined prior to an assessment."
+category: confirmation
+format: file
+domain: "cpl"
+status: published
+tags: []

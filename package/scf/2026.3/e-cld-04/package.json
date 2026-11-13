@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-scf-2026.3-e-cld-04",
+  "version": "1.0.0",
+  "description": "SCF 2026.3 E-CLD-04: Cloud Access Security Broker (CASB) Configuration",
+  "author": "team@zerobias.com",
+  "license": "CC-BY-ND-4.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/scf/2026.3/e-cld-04/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "scf.2026_3.e-cld-04.evidencedefinition"
+  }
+}

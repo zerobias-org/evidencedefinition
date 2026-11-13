@@ -1,0 +1,9 @@
+id: ad00d71c-ad5c-52c3-a9bb-eefdd8ba9188
+code: "E-CFG-01"
+name: "Configuration Review & Unauthorized Change Response Records"
+description: "Documented evidence of periodic configuration reviews and responses to detected unauthorized configuration changes (e.g., integrity assurance alerts and remediation)."
+category: confirmation
+format: file
+domain: "cfg"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 3b8a2184-d6ce-5808-83e8-fd220c1fa54a
+code: "E-GOV-01.3"
+name: "Asset Management Policy"
+description: "Documented evidence of a asset management policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

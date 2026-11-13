@@ -1,0 +1,15 @@
+{
+  "name": "@zerobias-org/evidencedefinition-scf-update",
+  "version": "1.0.0",
+  "description": "Generates SCF evidence definition packages from an SCF workbook's Evidence Request List sheet",
+  "private": true,
+  "license": "ISC",
+  "author": "team@zerobias.com",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}

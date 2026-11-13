@@ -1,0 +1,9 @@
+id: 0a484236-a99d-5657-9d24-b7065a6355d4
+code: "E-GOV-01.28"
+name: "Security Operations Policy"
+description: "Documented evidence of a security operations policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

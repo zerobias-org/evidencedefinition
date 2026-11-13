@@ -1,0 +1,9 @@
+id: ce495a6d-d558-5db9-b324-202f1e7c06a9
+code: "E-HRS-12"
+name: "Role Review"
+description: "Documented evidence of a formal review process to ensure personnel roles currently reflect business needs."
+category: confirmation
+format: file
+domain: "hrs"
+status: published
+tags: []

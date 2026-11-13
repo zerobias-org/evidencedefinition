@@ -1,0 +1,9 @@
+id: b78f957c-153a-5ce1-8a8a-f4b1788dc4a9
+code: "E-DCH-04"
+name: "Network Diagram - Low Level"
+description: "Documented evidence of a low-level network diagram that provides a detailed, logical depiction of assets on the network(s)."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []

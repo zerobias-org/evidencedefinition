@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-scf-2026.3-e-cpl-16",
+  "version": "1.0.0",
+  "description": "SCF 2026.3 E-CPL-16: Export Control (Dual-Use Technology) Documentation",
+  "author": "team@zerobias.com",
+  "license": "CC-BY-ND-4.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/scf/2026.3/e-cpl-16/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "scf.2026_3.e-cpl-16.evidencedefinition"
+  }
+}

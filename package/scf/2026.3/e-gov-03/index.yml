@@ -1,0 +1,9 @@
+id: 10631467-1bc9-5a27-9abc-4f811c41a7ff
+code: "E-GOV-03"
+name: "Cybersecurity & Data Protection Controls"
+description: "Documented evidence of an appropriately-scoped cybersecurity & data protection controls. Controls are technical, administrative or physical safeguards. Controls are the nexus used to manage risks through preventing, detecting or lessening the ability of a particular threat from negatively impacting business processes. Controls directly map to standards, since control testing is designed to measure specific aspects of how standards are actually implemented."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

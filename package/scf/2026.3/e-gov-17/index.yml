@@ -1,0 +1,9 @@
+id: ce043c96-7a63-5f2e-8239-56c95698a956
+code: "E-GOV-17"
+name: "Material Threats"
+description: "Documented evidence of specific threats that are categorized as material threats."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

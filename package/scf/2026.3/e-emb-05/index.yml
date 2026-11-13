@@ -1,0 +1,9 @@
+id: d2f988a6-809c-54fc-ab80-f952c0fe172d
+code: "E-EMB-05"
+name: "Embedded Technology Configuration Monitoring & Reviews"
+description: "Documented evidence of embedded technology configuration monitoring, alteration prevention and periodic reviews."
+category: confirmation
+format: file
+domain: "emb"
+status: published
+tags: []

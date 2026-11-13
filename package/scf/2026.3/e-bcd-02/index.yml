@@ -1,0 +1,9 @@
+id: 5bb7289b-c5ee-5599-a0e2-c5dfc6cd7ff9
+code: "E-BCD-02"
+name: "Recovery Time Objectives (RTOs)"
+description: "Documented evidence of Recovery Time Objectives (RTOs) that guide Continuity of Operations Plan (COOP)-related operations."
+category: confirmation
+format: file
+domain: "bcd"
+status: published
+tags: []

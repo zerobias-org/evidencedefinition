@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-scf-2026.3-e-dch-17",
+  "version": "1.0.0",
+  "description": "SCF 2026.3 E-DCH-17: Data Catalog & Data Quality Records",
+  "author": "team@zerobias.com",
+  "license": "CC-BY-ND-4.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/scf/2026.3/e-dch-17/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "scf.2026_3.e-dch-17.evidencedefinition"
+  }
+}

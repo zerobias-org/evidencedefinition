@@ -1,0 +1,9 @@
+id: f05452ae-0511-55ce-80c5-b4f3238cf559
+code: "E-GOV-01.14"
+name: "Endpoint Security Policy"
+description: "Documented evidence of a endpoint security policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

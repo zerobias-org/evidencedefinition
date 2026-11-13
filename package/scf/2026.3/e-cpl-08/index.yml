@@ -1,0 +1,9 @@
+id: dbc43616-be38-5480-ad66-f052dbb98187
+code: "E-CPL-08"
+name: "Functional Review of Cybersecurity Controls"
+description: "Documented evidence of control testing to ensure cybersecurity controls function as expected."
+category: confirmation
+format: file
+domain: "cpl"
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: b86fe8c2-54d4-534e-b6d3-8146c9e802fb
+code: "E-CLD-04"
+name: "Cloud Access Security Broker (CASB) Configuration"
+description: "Documented evidence of Cloud Access Security Broker (CASB), or similar, configuration governing sanctioned and unsanctioned cloud service use."
+category: confirmation
+format: file
+domain: "cld"
+status: published
+tags: []

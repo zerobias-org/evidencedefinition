@@ -1,0 +1,9 @@
+id: 638996f3-34b3-59a8-89c7-c4de60cf43d4
+code: "E-BCD-03"
+name: "Recovery Point Objectives (RPOs)"
+description: "Documented evidence of Recovery Point Objectives (RPOs) that guide Continuity of Operations Plan (COOP)-related operations."
+category: confirmation
+format: file
+domain: "bcd"
+status: published
+tags: []

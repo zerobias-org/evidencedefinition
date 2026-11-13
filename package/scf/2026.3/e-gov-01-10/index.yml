@@ -1,0 +1,9 @@
+id: 336aaea3-81a0-5ebb-ba7e-342883a82612
+code: "E-GOV-01.10"
+name: "Continuous Monitoring Policy"
+description: "Documented evidence of a continuous monitoring policy."
+category: confirmation
+format: file
+domain: "gov"
+status: published
+tags: []

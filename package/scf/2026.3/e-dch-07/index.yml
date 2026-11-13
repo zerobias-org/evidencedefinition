@@ -1,0 +1,9 @@
+id: fb9ceba5-87d7-5f5d-85f6-bc500553c23c
+code: "E-DCH-07"
+name: "Media Sanitization Documentation"
+description: "Documented evidence of media sanitization actions."
+category: confirmation
+format: file
+domain: "dch"
+status: published
+tags: []
