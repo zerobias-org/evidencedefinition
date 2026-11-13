@@ -1,7 +1,0 @@
-id: dde91c47-638e-5c04-be94-eec64c4f4006
-code: iac-policy
-name: Identification & Authentication Policies and Procedures
-description: Organizations implement the concept of “least privilege” through limiting access to the organization’s systems and data to authorized users only.
-category: policy
-status: published
-tags: []

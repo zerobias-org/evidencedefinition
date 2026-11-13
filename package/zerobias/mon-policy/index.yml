@@ -1,7 +1,0 @@
-id: 49536f2e-1739-5bd3-9ac4-bcc31d5c49e1
-code: mon-policy
-name: Continuous Monitoring Policies and Procedures
-description: Organizations establish and maintain ongoing situational awareness across the enterprise through the centralized collection and review of security-related event logs. Without comprehensive visibility into infrastructure, operating system, database, application and other logs, the organization will have “blind spots” in its situational awareness that could lead to system compromise, data exfiltration, or unavailability of needed computing resources.
-category: policy
-status: published
-tags: []

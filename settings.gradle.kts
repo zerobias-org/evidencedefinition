@@ -29,9 +29,9 @@ pluginManagement {
 rootProject.name = "evidencedefinitions"
 
 // Auto-discover evidence definition packages under package/ —
-// package/<vendor>/<code>/ (depth 2, e.g. package/zerobias/ast-policy/).
-// Project paths mirror the filesystem: package/zerobias/ast-policy →
-// :zerobias:ast-policy.
+// package/<vendor>/<code>/ (depth 2, e.g. package/zerobias/bcd-d-bcp/).
+// Project paths mirror the filesystem: package/zerobias/bcd-d-bcp →
+// :zerobias:bcd-d-bcp.
 val packageDir = file("package")
 if (packageDir.exists()) {
     packageDir.walkTopDown()
