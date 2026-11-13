@@ -1,7 +1,7 @@
 id: bd4fb6c4-d459-5abf-ac68-30f6ce964502
 code: "E-TDA-09"
 name: "Security Architecture View"
-description: "Documented evidence that identifies security-relevant system elements and their interfaces: • Define security context, domains, boundaries, and external interfaces of the system; • Align the architecture with (a) the system security objectives and requirements, (b) security design characteristics; and • Establish traceability of architecture elements to user and system security requirements."
+description: "Documented evidence that identifies security-relevant system elements and their interfaces:\n• Define security context, domains, boundaries, and external interfaces of the system;\n• Align the architecture with (a) the system security objectives and requirements, (b) security design characteristics; and\n• Establish traceability of architecture elements to user and system security requirements."
 category: confirmation
 format: file
 domain: "tda"
