@@ -1,0 +1,27 @@
+{
+  "name": "@zerobias-org/evidencedefinition-zerobias-sat-01",
+  "version": "1.0.0",
+  "description": "Security & Privacy-Minded Workforce evidence definition artifact.",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/zerobias/sat-01/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "zerobias.sat-01.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-sat-01"
+  }
+}

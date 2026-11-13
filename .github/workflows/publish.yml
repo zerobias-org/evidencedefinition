@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       evidencedefinition:
-        description: 'Evidence definition to publish (e.g. zerobias/ast-policy). Leave blank for all changed.'
+        description: 'Evidence definition to publish (e.g. zerobias/bcd-d-bcp). Leave blank for all changed.'
         required: false
 
 permissions:

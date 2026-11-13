@@ -1,0 +1,7 @@
+id: 325b99c4-c0f6-5d5c-bbcd-2dca5daf9b35
+code: ast-l-repurposed
+name: List of Re-Purposed Assets
+description: A population of assets that were re-purposed, for instance issued to multiple employees at different times, or servers that were assigned to different environments/customers during the lookback period.
+category: population
+status: published
+tags: []

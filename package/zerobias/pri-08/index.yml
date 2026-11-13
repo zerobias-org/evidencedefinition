@@ -1,0 +1,11 @@
+id: 266c7c44-3048-5ebd-956e-cb50693c9d5d
+code: PRI-08
+name: Privacy Testing, Training & Monitoring
+description: |-
+  Evidence that the organization implements a process for ensuring that organizational plans for conducting security and privacy testing, training and monitoring activities associated with organizational systems are developed and performed.
+
+  Example evidence:
+  -Privacy program documentation
+category: confirmation
+status: published
+tags: []

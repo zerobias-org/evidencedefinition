@@ -1,0 +1,7 @@
+id: 52cfbe68-07d3-54fe-bb16-370d3f3dcf98
+code: ATARC-18
+name: Show peer reviews are completed before approval and merge
+description: Ensure that peer reviews of code are performed and approved by an independent party prior to merging the pull request
+category: confirmation
+status: published
+tags: []

@@ -1,0 +1,10 @@
+id: 202f0dd2-7575-5f43-919b-3eaf87d58ac7
+code: ast-l-retired
+name: List of Retired Assets
+description: |-
+  A population of data-storing physical assets (laptops, servers, phones, etc.) that  was retired from active service.
+  Example evidence:
+  - Report from asset management system - List of tickets to retire devices
+category: population
+status: published
+tags: []

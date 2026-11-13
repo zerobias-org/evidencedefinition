@@ -1,0 +1,14 @@
+id: 7c8611b3-bdd5-59e9-bfae-dc3e2a99e9ec
+code: ast-s-deletion
+name: Secure Deletion of Repurposed Assets
+description: |-
+  Evidence that all assets that store application/user data are completely and securely wiped between purposes/assigments.
+  Examples:
+   - Logs/Reports from Secure Erase Application
+   - Certificate of Erasure
+   - Secure Disk Wipe on Installation/Imaging
+   - Unattended Installation / Windows System Image Manager Answer Files
+   - RMM/Endpoint Management Remote Wipe
+category: sample
+status: published
+tags: []

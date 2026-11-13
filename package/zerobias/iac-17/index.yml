@@ -1,0 +1,13 @@
+id: 25befd92-0e73-5023-acae-c14d4730b84c
+code: IAC-17
+name: Periodic Review of Account Privileges
+description: |-
+  Evidence that the organization periodically-reviews the privileges assigned to individuals and service accounts to validate the need for such privileges and reassign or remove unnecessary privileges, as necessary.
+
+  Example evidence:
+  -implementation of IAM
+  - Administrative processes and technologies inventory all privileged accounts and validate that each person with elevated privileges is authorized by the appropriate level of organizational management. 
+  - Administrative processes exist to periodically review the privileges assigned to users to validate the need for such privileges; and reassign or remove privileges, if necessary, to correctly reflect organizational mission and business needs.
+category: confirmation
+status: published
+tags: []

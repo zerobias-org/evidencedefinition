@@ -1,0 +1,7 @@
+id: 1cf6a8c3-60b8-5670-9e96-685e182cd01a
+code: ATARC-12
+name: Show list of Projects in Jira
+description: Provide a list of all projects in scope for Jira
+category: population
+status: published
+tags: []

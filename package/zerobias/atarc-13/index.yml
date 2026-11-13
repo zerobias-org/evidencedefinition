@@ -1,0 +1,7 @@
+id: 773bf9af-9424-56ae-8514-221014023fba
+code: ATARC-13
+name: Show list of Epics for each project in scope
+description: Provide a list of Epics for each Project in Jira
+category: population
+status: published
+tags: []

@@ -1,0 +1,11 @@
+id: ba5ab814-e412-57b7-be65-0e38b52c55bd
+code: rsk-d-risk-register
+name: Risk Register
+description: |-
+  A list of all identified risks, including all causes of outages as indicated in root cause analyses (RCAs).
+  Example evidence:
+    - Risk register document
+    - List of Risks from a GRC/Risk application
+category: documentation
+status: published
+tags: []

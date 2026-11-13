@@ -1,0 +1,9 @@
+id: 704e4f4c-045a-557b-9def-dc3fea3c57cf
+code: bcd-c-cp-testing
+name: Evidence of Contingency Plan Testing
+description: |-
+  Confirmation that contingency plans are tested according to stated policies.
+  Example evidence: - Contingency/DR Plan Test Results - Unit/Integration Tests of plan components
+category: confirmation
+status: published
+tags: []

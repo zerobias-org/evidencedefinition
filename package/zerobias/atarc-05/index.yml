@@ -1,0 +1,7 @@
+id: 481108b6-3e88-5280-833e-06db9802e1d7
+code: ATARC-05
+name: Show list of priveleged user accounts in AD
+description: Provide a list of all Active Directory (AD) Priveleged accounts in scope (i.e Admin, Administrator, local Adminstrators, comain administrators)
+category: population
+status: published
+tags: []

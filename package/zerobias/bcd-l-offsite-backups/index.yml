@@ -1,0 +1,10 @@
+id: ac16df78-c8dc-57ad-bf7b-424c14d37d57
+code: bcd-l-offsite-backups
+name: Offsite Backups
+description: |-
+  Evidence that the organization stores backup copies of critical software and other security-related information in a separate facility or in a fire-rated container that is not collocated with the system being backed up.
+  Example evidence:
+  - List of Backups including physical/logical region and region of source system
+category: population
+status: published
+tags: []

@@ -1,0 +1,9 @@
+id: 3b6a12fb-a6cb-5c48-99d0-e4a5756719d9
+code: bcd-c-alt-site-availability
+name: Alternate Site Availability
+description: |-
+  Evidence that the organization identifies and mitigates potential accessibility problems to the alternate storage site in the event of an area-wide disruption or disaster.
+  Example evidence: - Multi-Region replication of backups - Multi-Region options for recovered/migrated workloads - Virtual Desktop / Work-from-Home capability - VoIP softphone / virtual handsets / telephony applications
+category: confirmation
+status: published
+tags: []

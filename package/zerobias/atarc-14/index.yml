@@ -1,0 +1,7 @@
+id: e792ac2c-0d48-5f82-8718-96c4b8cb5305
+code: ATARC-14
+name: Show list of tickets in each project
+description: Return all tickets assigned to each Epic
+category: population
+status: published
+tags: []

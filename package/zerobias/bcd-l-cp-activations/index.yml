@@ -1,0 +1,12 @@
+id: 4e9b643c-a9cd-51b3-afb2-4535da5dd9bb
+code: bcd-l-cp-activations
+name: List of Contingency Plan Activations
+description: |-
+  A list of times that contingency plans were activated, either for testing or as a result of an outage, including dates.
+  Qualifying events include:
+   - Service Disruptions / Outages (Network, Compute, Storage, Datacenter)
+   - System Failover (non-transparent)
+   - Disaster Recovery Plan activations
+category: population
+status: published
+tags: []

@@ -1,0 +1,27 @@
+{
+  "name": "@zerobias-org/evidencedefinition-zerobias-bcd-c-cp-testing",
+  "version": "1.0.0",
+  "description": "Evidence of Contingency Plan Testing evidence definition artifact.",
+  "author": "team@zerobias.com",
+  "license": "ISC",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/zerobias/bcd-c-cp-testing/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "zerobias.bcd-c-cp-testing.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-bcd-c-cp-testing"
+  }
+}
