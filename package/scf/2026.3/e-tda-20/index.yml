@@ -1,0 +1,9 @@
+id: daf98c06-49ca-5b49-ad24-ce01a96f853d
+code: "E-TDA-20"
+name: "Development / Test / Production Environment Separation"
+description: "Documented evidence of secure development environments and separation of development, test and production environments, including secure migration practices."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

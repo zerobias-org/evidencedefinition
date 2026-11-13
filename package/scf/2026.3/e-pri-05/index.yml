@@ -1,0 +1,9 @@
+id: cd1d2275-f037-5e8b-8ffa-8b00ab6712b1
+code: "E-PRI-05"
+name: "Data Sharing Agreement"
+description: "Documented evidence of formal data sharing practices that address, at a minimum:\n• The business justification for the data sharing;\n• The type / category of data being shared;\n• The third-parties the data is being shared with;\n• Lawful bases for data sharing; and\n• Data subject rights."
+category: confirmation
+format: file
+domain: "pri"
+status: published
+tags: []

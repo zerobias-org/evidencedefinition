@@ -1,0 +1,9 @@
+id: 3938dd83-9f3a-59d7-9a44-b28df67114ea
+code: "E-NET-12"
+name: "Email Security Configuration"
+description: "Documented evidence of email domain reputation protections (DMARC, SPF, ARC) and phishing / spam protection configurations."
+category: confirmation
+format: file
+domain: "net"
+status: published
+tags: []

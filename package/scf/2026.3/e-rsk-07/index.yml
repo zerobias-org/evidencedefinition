@@ -1,0 +1,9 @@
+id: daa31dc0-d436-5d78-b08f-5f77c12339cb
+code: "E-RSK-07"
+name: "Risk Tolerance"
+description: "Documented evidence the organization has a defined risk tolerance."
+category: confirmation
+format: file
+domain: "rsk"
+status: published
+tags: []

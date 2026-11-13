@@ -1,0 +1,26 @@
+{
+  "name": "@zerobias-org/evidencedefinition-scf-2026.3-e-pes-08",
+  "version": "1.0.0",
+  "description": "SCF 2026.3 E-PES-08: Physical Access Control Device Inventories",
+  "author": "team@zerobias.com",
+  "license": "CC-BY-ND-4.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/evidencedefinition.git",
+    "directory": "package/scf/2026.3/e-pes-08/"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org"
+  },
+  "files": [
+    "index.yml",
+    "npm-shrinkwrap.json"
+  ],
+  "dependencies": {},
+  "zerobias": {
+    "dataloader-version": "1.0.0",
+    "import-artifact": "evidencedefinition",
+    "package": "scf.2026_3.e-pes-08.evidencedefinition"
+  }
+}

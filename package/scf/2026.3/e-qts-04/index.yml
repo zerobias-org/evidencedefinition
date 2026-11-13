@@ -1,0 +1,9 @@
+id: 5d38f281-8c4d-5baa-9b48-90a80d27f8f0
+code: "E-QTS-04"
+name: "Cryptographic Asset Inventory"
+description: "Documented evidence of a cryptographic asset inventory."
+category: confirmation
+format: file
+domain: "qts"
+status: published
+tags: []

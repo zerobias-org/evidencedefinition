@@ -1,0 +1,9 @@
+id: 99ddd2be-f0de-59be-a099-f1d1bed8c751
+code: "E-OPS-01"
+name: "Security Operations Center (SOC)"
+description: "Documented evidence of a Security Operations Center (SOC)."
+category: confirmation
+format: file
+domain: "ops"
+status: published
+tags: []

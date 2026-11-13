@@ -1,0 +1,9 @@
+id: 5d9ef930-1c9a-5c83-bf95-5c68b19876f8
+code: "E-PES-07"
+name: "Physical Access Control Devices"
+description: "Documented evidence of Physical Access Control (PAC) mechanisms."
+category: confirmation
+format: file
+domain: "pes"
+status: published
+tags: []

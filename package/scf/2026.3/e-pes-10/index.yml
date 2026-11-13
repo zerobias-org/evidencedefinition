@@ -1,0 +1,9 @@
+id: 7dc87b28-dde5-5777-ab67-712f97692f0e
+code: "E-PES-10"
+name: "Physical Access Authorizations"
+description: "Documented evidence of physical access authorization activities (e.g., list reviews, termination changes, etc.)."
+category: confirmation
+format: file
+domain: "pes"
+status: published
+tags: []

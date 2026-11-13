@@ -1,0 +1,9 @@
+id: b12f4c85-e5c4-5962-934f-38536b4405bb
+code: "E-VPM-02"
+name: "Penetration Testing - Application"
+description: "Documented evidence of Application Security Testing (AST) activities:\n• Abuse case, malformed, and unexpected inputs (e.g., Robustness or Fuzz testing);\n• Attack surface analysis;\n• Vulnerability chaining;\n• Closed box testing of known vulnerability scanning;\n• Software composition analysis of binary executable files; and/or\n• Static and dynamic code analysis, including testing for credentials that are “hardcoded,” default, easily guessed, and easily compromised."
+category: confirmation
+format: file
+domain: "vpm"
+status: published
+tags: []

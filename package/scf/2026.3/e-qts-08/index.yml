@@ -1,0 +1,9 @@
+id: d7d608d0-ff67-578c-b9aa-15bd552dbee7
+code: "E-QTS-08"
+name: "Approved / Deprecated Algorithm List"
+description: "Documented evidence of an approved / deprecated algorithm list."
+category: confirmation
+format: file
+domain: "qts"
+status: published
+tags: []

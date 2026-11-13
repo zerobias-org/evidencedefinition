@@ -1,0 +1,9 @@
+id: 39def2b2-2375-5605-a377-6932d0b87c81
+code: "E-THR-08"
+name: "Behavioral Baselining"
+description: "Documented evidence of behavioral baselining to determine normal vs abnormal activities."
+category: confirmation
+format: file
+domain: "thr"
+status: published
+tags: []

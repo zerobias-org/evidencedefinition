@@ -1,0 +1,9 @@
+id: 29738a3b-bf95-53ce-b3b6-0727060dad55
+code: "E-VPM-09"
+name: "Flaw Remediation Actions"
+description: "Documented evidence of list of recent security flaw remediation actions performed on the system (e.g., list of installed patches, service packs, hot fixes, and other software updates to correct system flaws)."
+category: confirmation
+format: file
+domain: "vpm"
+status: published
+tags: []

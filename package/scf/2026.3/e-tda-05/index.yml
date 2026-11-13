@@ -1,0 +1,9 @@
+id: 1177b227-da2d-5fc9-aaee-f9154618c79f
+code: "E-TDA-05"
+name: "Failure Mode and Effect Analysis (FMEA)"
+description: "Documented evidence of an engineering method designed to define, identify, and present solutions for system failures, problems, or errors."
+category: confirmation
+format: file
+domain: "tda"
+status: published
+tags: []

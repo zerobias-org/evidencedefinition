@@ -1,0 +1,9 @@
+id: 2b6e5f92-8692-5d6e-b691-3c21b221168a
+code: "E-IAC-16"
+name: "Multi-Factor Authentication (MFA) Configuration"
+description: "Documented evidence of Multi-Factor Authentication (MFA) enforcement, including replay-resistant and phishing-resistant authenticators for privileged and non-privileged network access."
+category: confirmation
+format: file
+domain: "iac"
+status: published
+tags: []
