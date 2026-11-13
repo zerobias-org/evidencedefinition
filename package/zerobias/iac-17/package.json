@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.iac-17.evidencedefinition"
+    "package": "zerobias.iac-17.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-iac-17"
   }
 }

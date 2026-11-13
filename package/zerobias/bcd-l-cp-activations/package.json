@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.bcd-l-cp-activations.evidencedefinition"
+    "package": "zerobias.bcd-l-cp-activations.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-bcd-l-cp-activations"
   }
 }

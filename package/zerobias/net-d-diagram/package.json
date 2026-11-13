@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.net-d-diagram.evidencedefinition"
+    "package": "zerobias.net-d-diagram.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-net-d-diagram"
   }
 }

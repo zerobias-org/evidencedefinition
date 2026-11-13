@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.gov-cybersecuritypolicy.evidencedefinition"
+    "package": "zerobias.gov-cybersecuritypolicy.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-gov-cybersecuritypolicy"
   }
 }

@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.ast-l-repurposed.evidencedefinition"
+    "package": "zerobias.ast-l-repurposed.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-ast-l-repurposed"
   }
 }

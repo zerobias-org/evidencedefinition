@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.rsk-d-risk-register.evidencedefinition"
+    "package": "zerobias.rsk-d-risk-register.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-rsk-d-risk-register"
   }
 }

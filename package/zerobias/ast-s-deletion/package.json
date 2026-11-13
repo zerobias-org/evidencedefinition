@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.ast-s-deletion.evidencedefinition"
+    "package": "zerobias.ast-s-deletion.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-ast-s-deletion"
   }
 }

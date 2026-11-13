@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.bcd-l-offsite-backups.evidencedefinition"
+    "package": "zerobias.bcd-l-offsite-backups.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-bcd-l-offsite-backups"
   }
 }

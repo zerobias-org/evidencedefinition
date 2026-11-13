@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.hrs-d-mobile-use.evidencedefinition"
+    "package": "zerobias.hrs-d-mobile-use.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-hrs-05-5"
   }
 }

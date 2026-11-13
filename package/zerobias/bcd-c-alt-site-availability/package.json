@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.bcd-c-alt-site-availability.evidencedefinition"
+    "package": "zerobias.bcd-c-alt-site-availability.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-bcd-c-alt-site-availability"
   }
 }

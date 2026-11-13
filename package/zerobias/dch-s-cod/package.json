@@ -21,6 +21,7 @@
   "zerobias": {
     "dataloader-version": "1.0.0",
     "import-artifact": "evidencedefinition",
-    "package": "zerobias.dch-s-cod.evidencedefinition"
+    "package": "zerobias.dch-s-cod.evidencedefinition",
+    "migrates-from": "@auditlogic/evidencedefinition-auditlogic-dch-s-cod"
   }
 }
