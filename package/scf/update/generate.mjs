@@ -31,6 +31,8 @@ if (uuidv5('www.example.com', DNS_NAMESPACE) !== '2ed6657d-e927-568b-95e1-2665a8
 }
 
 const clean = (s) => String(s ?? '').replace(/\s+/g, ' ').trim();
+// SCF content is CC BY-ND 4.0: reproduce it verbatim (line breaks, bullets, spacing), only trim the ends
+const verbatim = (s) => String(s ?? '').trim();
 // JSON strings are valid YAML double-quoted scalars, so no YAML library is needed
 const q = (s) => JSON.stringify(s);
 
@@ -68,8 +70,8 @@ sheet.eachRow((row, n) => {
   const code = clean(row.getCell(codeCol).text).toUpperCase();
   if (!code) return;
   if (!/^E-[A-Z]{3}-\d+(\.\d+)?$/.test(code)) throw new Error(`row ${n}: unexpected ERL code "${code}"`);
-  const name = clean(row.getCell(nameCol).text);
-  const description = clean(row.getCell(descCol).text);
+  const name = verbatim(row.getCell(nameCol).text);
+  const description = verbatim(row.getCell(descCol).text);
   if (!name) throw new Error(`row ${n} (${code}): empty artifact name`);
 
   // Package code segments can't hold dots: E-GOV-01.1 → e-gov-01-1
@@ -102,7 +104,7 @@ sheet.eachRow((row, n) => {
       version: '1.0.0',
       description: `SCF ${version} ${code}: ${name}`,
       author: 'team@zerobias.com',
-      license: 'ISC',
+      license: 'CC-BY-ND-4.0', // SCF content license; see NOTICE.md
       type: 'module',
       repository: {
         type: 'git',
