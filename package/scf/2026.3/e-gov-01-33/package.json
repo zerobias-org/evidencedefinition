@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "SCF 2026.3 E-GOV-01.33: Vulnerability & Patch Management Policy",
   "author": "team@zerobias.com",
-  "license": "ISC",
+  "license": "CC-BY-ND-4.0",
   "type": "module",
   "repository": {
     "type": "git",

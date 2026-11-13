@@ -16,7 +16,7 @@ Definitions generated from a versioned source live at `package/<vendor>/<version
 
 ## SCF evidence definitions
 
-`package/scf/<version>/` is generated from the "Evidence Request List" sheet of the SCF workbook. Do not edit it by hand:
+`package/scf/<version>/` is generated from the "Evidence Request List" sheet of the SCF workbook. SCF content is CC BY-ND 4.0 (see [NOTICE.md](NOTICE.md)): it must stay verbatim, so do not edit it by hand:
 
 ```bash
 cd package/scf/update && npm install
