@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "SCF 2026.3 E-QTS-14: Post-Quantum Cryptography Agility Plan (PQCAP)",
   "author": "team@zerobias.com",
-  "license": "ISC",
+  "license": "CC-BY-ND-4.0",
   "type": "module",
   "repository": {
     "type": "git",

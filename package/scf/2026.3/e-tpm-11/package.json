@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "SCF 2026.3 E-TPM-11: Supplier Diversity & Concentration Risk Analysis",
   "author": "team@zerobias.com",
-  "license": "ISC",
+  "license": "CC-BY-ND-4.0",
   "type": "module",
   "repository": {
     "type": "git",
